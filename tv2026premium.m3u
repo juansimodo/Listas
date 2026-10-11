@@ -1,60 +1,42 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
-https://11.ftlly.com/espn/mono.m3u8?token=88cd2b137dae38489276c9ede42faa7569571d20-bf-1791760298-1791742298|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://11.ftlly.com/espn/mono.m3u8?token=ff71c406072e7521c68137f9063e9caea422baa9-e0-1791761417-1791743417
 
 #EXTINF:-1 tvg-name="ESPN2" group-title="Deportes",ESPN2
-https://6.ftlly.com/espn2/mono.m3u8?token=5f1578ac5e7c8baf10ec751f1b003f720876530d-2b-1791760305-1791742305|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://11.ftlly.com/espn2/mono.m3u8?token=61b8566b4b593eff375283125c6f15fe4882a959-6c-1791761423-1791743423
 
 #EXTINF:-1 tvg-name="ESPN3" group-title="Deportes",ESPN3
-https://5.ftlly.com/espn3/mono.m3u8?token=01f6a76a6fb39e4bc01750050cdf2204c5475256-35-1791760311-1791742311|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://10.ftlly.com/espn3/mono.m3u8?token=b1485b0ab67a05afc4ae77f688408af10626572e-ee-1791761429-1791743429
 
 #EXTINF:-1 tvg-name="ESPN4" group-title="Deportes",ESPN4
-https://10.ftlly.com/espn4/mono.m3u8?token=ef133913d456f4121d5f9722ae4f3089ed8e5159-1f-1791760317-1791742317|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://3.ftlly.com/espn4/mono.m3u8?token=9ad685960e470b39f3402f67bac67f21616549a3-26-1791761436-1791743436
 
 #EXTINF:-1 tvg-name="ESPN5" group-title="Deportes",ESPN5
-https://8.ftlly.com/espn5/mono.m3u8?token=66ad68223b36f05bfcecedf5be3647817b3fdff8-79-1791760324-1791742324|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://10.ftlly.com/espn5/mono.m3u8?token=31bda898553dcdf274784a0b7cea837c3ebff3b0-ac-1791761442-1791743442
 
 #EXTINF:-1 tvg-name="ESPN6" group-title="Deportes",ESPN6
-https://8.ftlly.com/espn6/mono.m3u8?token=cfe4b6c76be975cb1d4961e60e58fa724b7b3cb9-d6-1791760330-1791742330|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://11.ftlly.com/espn6/mono.m3u8?token=ea31be235dd64f9524ab3d89d59b6734bf712621-46-1791761448-1791743448
 
 #EXTINF:-1 tvg-name="ESPN7" group-title="Deportes",ESPN7
-https://9.ftlly.com/espn7/mono.m3u8?token=51f312667cb774e2aa72271f86cfda0c495ef010-fc-1791760336-1791742336|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://3.ftlly.com/espn7/mono.m3u8?token=2b8c2d2c558384ff76f998ca1286cfe860729e89-e8-1791761455-1791743455
 
 #EXTINF:-1 tvg-name="DSPORTS" group-title="Deportes",DSPORTS
-https://2.ftlly.com/dsports/mono.m3u8?token=9496a7b7985f77ba9fb2a75828d87e4b1624a3b4-d4-1791760343-1791742343|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://11.ftlly.com/dsports/mono.m3u8?token=26aebef533ce5f1444d0a5192f7d1e2753b215a2-2f-1791761461-1791743461
 
 #EXTINF:-1 tvg-name="DSPORTS2" group-title="Deportes",DSPORTS2
-https://8.ftlly.com/dsports2/mono.m3u8?token=c0672418d022864e9e0340fe373061ff2c5f6797-31-1791760349-1791742349|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
-
-#EXTINF:-1 tvg-name="DSPORTSPLUS" group-title="Deportes",DSPORTSPLUS
-https://11.ftlly.com/dsportsplus/mono.m3u8?token=94effe75e90b1b0bb2dd09ea00eb890afae0472f-6f-1791760355-1791742355|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
-
-#EXTINF:-1 tvg-name="GOLTV" group-title="Deportes",GOLTV
-https://8.ftlly.com/goltv/mono.m3u8?token=30d5cddf1b3a0837b5167d5fe346c194b389d361-fa-1791760362-1791742362|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
-
-#EXTINF:-1 tvg-name="VTVPLUS" group-title="Deportes",VTVPLUS
-https://10.ftlly.com/vtvplus/mono.m3u8?token=0d39d1947dcb1cc9cfcc812131a8bb1c2b0b52cf-6c-1791760368-1791742368|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
-
-#EXTINF:-1 tvg-name="ECDF LIGAPRO" group-title="Deportes",ECDF LIGAPRO
-https://9.ftlly.com/ecdf_ligapro/mono.m3u8?token=27c699c2ac2f8356baf34f2d3cf8dface4fa8152-95-1791760375-1791742375|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
-
-#EXTINF:-1 tvg-name="FOXSPORTS" group-title="Deportes",FOXSPORTS
-https://9.ftlly.com/foxsports/mono.m3u8?token=c896c0e90a281c36ccf819a2cc9060bada0957bb-2f-1791760381-1791742381|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
-
-#EXTINF:-1 tvg-name="FOXSPORTS2" group-title="Deportes",FOXSPORTS2
-https://11.ftlly.com/foxsports2/mono.m3u8?token=7e9905c8c85d122672cdf229071208caaa7f8dc4-73-1791760387-1791742387|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://tvf90.com/
+#EXTHTTP:{"Referer": "https://tvf90.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://5.ftlly.com/dsports2/mono.m3u8?token=b2c52f8b32545281e92b5dca4c06547ab2652a24-9-1791761468-1791743468
 
 --------------------------
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1,13-Sinart
 http://200.35.176.154:8000/play/a00c/index.m3u8
