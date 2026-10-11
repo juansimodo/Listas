@@ -1,50 +1,34 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
-https://tu-proxy.onrender.com/proxy?url=https%3A//2.ftlly.com/espn/mono.m3u8%3Ftoken%3D2cd6d30bff074788d9d5b800b355f9d36fa8385d-5b-1791763614-1791745614
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//5.ftlly.com/espn/mono.m3u8%3Ftoken%3D0c55659005e8e0b8d1f5adb79f56d47fee34916d-bc-1791766080-1791748080
 
 #EXTINF:-1 tvg-name="ESPN2" group-title="Deportes",ESPN2
-https://tu-proxy.onrender.com/proxy?url=https%3A//11.ftlly.com/espn2/mono.m3u8%3Ftoken%3Deeac3c3c2bc02f13e41f8d35afc317fd5e317d66-10-1791763620-1791745620
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//6.ftlly.com/espn2/mono.m3u8%3Ftoken%3Dc0d168f88895e535461b7cb5a8a0519e0ac1068b-d5-1791766086-1791748086
 
 #EXTINF:-1 tvg-name="ESPN3" group-title="Deportes",ESPN3
-https://tu-proxy.onrender.com/proxy?url=https%3A//10.ftlly.com/espn3/mono.m3u8%3Ftoken%3Dd35a3adb45a6622aed740937c7404e6aca3b19c7-62-1791763626-1791745626
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//4.ftlly.com/espn3/mono.m3u8%3Ftoken%3D6368a8c1a1dec7c52713d3edac4f89dae38977e0-f6-1791766093-1791748093
 
 #EXTINF:-1 tvg-name="ESPN4" group-title="Deportes",ESPN4
-https://tu-proxy.onrender.com/proxy?url=https%3A//5.ftlly.com/espn4/mono.m3u8%3Ftoken%3D6576ed6dbe18de6a22c8bec2a8fe8bada8b9ee8b-5d-1791763633-1791745633
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//10.ftlly.com/espn4/mono.m3u8%3Ftoken%3D0f51590d47b2666da6d94bccc01cc6070745c698-b2-1791766100-1791748100
 
 #EXTINF:-1 tvg-name="ESPN5" group-title="Deportes",ESPN5
-https://tu-proxy.onrender.com/proxy?url=https%3A//9.ftlly.com/espn5/mono.m3u8%3Ftoken%3D6076d95ea471b3108b24fbb7a89d0c8b4dbc4b2d-1c-1791763639-1791745639
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//2.ftlly.com/espn5/mono.m3u8%3Ftoken%3Db2c0f1c472e299bbec3b6029aac7d5f5716cc1c7-e3-1791766106-1791748106
 
 #EXTINF:-1 tvg-name="ESPN6" group-title="Deportes",ESPN6
-https://tu-proxy.onrender.com/proxy?url=https%3A//3.ftlly.com/espn6/mono.m3u8%3Ftoken%3D2a72a39fcd51f53466f85149d6e45316155f9284-f0-1791763646-1791745646
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//7.ftlly.com/espn6/mono.m3u8%3Ftoken%3Da5dba0477fedc2be206acba891ed31e23d656a73-6b-1791766113-1791748113
 
 #EXTINF:-1 tvg-name="ESPN7" group-title="Deportes",ESPN7
-https://tu-proxy.onrender.com/proxy?url=https%3A//4.ftlly.com/espn7/mono.m3u8%3Ftoken%3D7be4dc5697f67473e74b5c4feae42914e7b80edc-ea-1791763652-1791745652
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//10.ftlly.com/espn7/mono.m3u8%3Ftoken%3D7b9d11451dde9347c4f627668e912fdca12c2ca7-c3-1791766119-1791748119
 
 #EXTINF:-1 tvg-name="DSPORTS" group-title="Deportes",DSPORTS
-https://tu-proxy.onrender.com/proxy?url=https%3A//11.ftlly.com/dsports/mono.m3u8%3Ftoken%3Dd83f3b72ea3c17469cfc22c9d352c1e68da13b60-4e-1791763658-1791745658
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//6.ftlly.com/dsports/mono.m3u8%3Ftoken%3Dcacc7ca8037721ba8a27d4470ebb2ed93c1d7409-31-1791766126-1791748126
 
 #EXTINF:-1 tvg-name="DSPORTS2" group-title="Deportes",DSPORTS2
-https://tu-proxy.onrender.com/proxy?url=https%3A//9.ftlly.com/dsports2/mono.m3u8%3Ftoken%3Ddf3972d2d57eaa71c8c96f59e1c58f8e17cce87b-27-1791763665-1791745665
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//6.ftlly.com/dsports2/mono.m3u8%3Ftoken%3Dac00b2dd9a19471ce8ae3e65dd7810c8c3fc06e5-6d-1791766132-1791748132
 
 #EXTINF:-1 tvg-name="DSPORTSPLUS" group-title="Deportes",DSPORTSPLUS
-https://tu-proxy.onrender.com/proxy?url=https%3A//11.ftlly.com/dsportsplus/mono.m3u8%3Ftoken%3D5e80e639c7f90a1edf9236d8dd4309c9a2a105d0-b0-1791763671-1791745671
-
-#EXTINF:-1 tvg-name="GOLTV" group-title="Deportes",GOLTV
-https://tu-proxy.onrender.com/proxy?url=https%3A//5.ftlly.com/goltv/mono.m3u8%3Ftoken%3D19976abdf7d094da53d3dcf2342092c731638200-b5-1791763677-1791745677
-
-#EXTINF:-1 tvg-name="VTVPLUS" group-title="Deportes",VTVPLUS
-https://tu-proxy.onrender.com/proxy?url=https%3A//11.ftlly.com/vtvplus/mono.m3u8%3Ftoken%3Dbe329335bcfbda5d863378b02a0d10202c27e0cf-ae-1791763684-1791745684
-
-#EXTINF:-1 tvg-name="ECDF LIGAPRO" group-title="Deportes",ECDF LIGAPRO
-https://tu-proxy.onrender.com/proxy?url=https%3A//6.ftlly.com/ecdf_ligapro/mono.m3u8%3Ftoken%3D8e78813adf544ceea69a5c3535b6d202769be323-49-1791763690-1791745690
-
-#EXTINF:-1 tvg-name="FOXSPORTS" group-title="Deportes",FOXSPORTS
-https://tu-proxy.onrender.com/proxy?url=https%3A//9.ftlly.com/foxsports/mono.m3u8%3Ftoken%3D0c223efa7aefbd0377a1631106000e16d4d70c2e-23-1791763697-1791745697
-
-#EXTINF:-1 tvg-name="FOXSPORTS2" group-title="Deportes",FOXSPORTS2
-https://tu-proxy.onrender.com/proxy?url=https%3A//3.ftlly.com/foxsports2/mono.m3u8%3Ftoken%3D0b37677b79d7a7da2c25d566b58c8d963d7f492c-5f-1791763703-1791745703
+https://proxy-deportes-canales.vercel.app/api?url=https%3A//11.ftlly.com/dsportsplus/mono.m3u8%3Ftoken%3D8c5c88f85029ef24625ce293f05b8412c2f36853-ea-1791766139-1791748139
 
 --------------------------
 
