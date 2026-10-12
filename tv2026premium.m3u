@@ -85,8 +85,466 @@ https://4.ftlly.com/foxsports3/mono.m3u8?token=8f54a81e217dbb1d1ac98c965657c8b00
 #EXTVLCOPT:http-referrer=https://tvf90.com/
 https://7.ftlly.com/tntsports/mono.m3u8?token=556a51018dfe2df91b3b0b0dd469adf2bb197005-83-1791781260-1791763260
 
+#EXTINF:-1 tvg-name="ESPNPREMIUM" group-title="Deportes",ESPNPREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/espnpremium/mono.m3u8?token=642e49fc95865bb828762b2cc4ceb84a921400e7-52-1791781266-1791763266
 
--------------------------------
+#EXTINF:-1 tvg-name="TYCSPORTS" group-title="Deportes",TYCSPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/tycsports/mono.m3u8?token=0ba0e8af873a4d66e832538cbb297d84d678e993-27-1791781273-1791763273
+
+#EXTINF:-1 tvg-name="TYCINTERNACIONAL" group-title="Deportes",TYCINTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/tycinternacional/mono.m3u8?token=b202789c91fbcb46d4d7a21dc1690802c7b47891-77-1791781279-1791763279
+
+#EXTINF:-1 tvg-name="TELEFE" group-title="Deportes",TELEFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/telefe/mono.m3u8?token=6fe80bbaff2b2c918e437aef3a3f5279d0f8d7a2-1b-1791781285-1791763285
+
+#EXTINF:-1 tvg-name="TVPUBLICA" group-title="Deportes",TVPUBLICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/tvpublica/mono.m3u8?token=285464ce52f60bea080192edf98653a9f4e2a0b5-21-1791781292-1791763292
+
+#EXTINF:-1 tvg-name="GOLPERU" group-title="Deportes",GOLPERU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/golperu/mono.m3u8?token=0fb56cc250df249fed2159901578823983bfa10c-5c-1791781298-1791763298
+
+#EXTINF:-1 tvg-name="LIGA1MAX" group-title="Deportes",LIGA1MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/liga1max/mono.m3u8?token=4ba6bcc0fb2cdf96686a1143100130e6c661a82b-71-1791781305-1791763305
+
+#EXTINF:-1 tvg-name="MOVISTAR" group-title="Deportes",MOVISTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/movistar/mono.m3u8?token=950b4b7d972eb872227ad8502a705a1339997f39-e-1791781311-1791763311
+
+#EXTINF:-1 tvg-name="WINSPORTSPLUS" group-title="Deportes",WINSPORTSPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/winsportsplus/mono.m3u8?token=95786ea282ea9febf3063161728c985ef0fc49c4-b7-1791781318-1791763318
+
+#EXTINF:-1 tvg-name="WINSPORTS2" group-title="Deportes",WINSPORTS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/winsports2/mono.m3u8?token=f16ded1b61bead34fbd9084d96408a09cb163dee-6f-1791781324-1791763324
+
+#EXTINF:-1 tvg-name="WINSPORTS" group-title="Deportes",WINSPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/winsports/mono.m3u8?token=9081d821abdf882ead726818353eec2fdbf44079-22-1791781331-1791763331
+
+#EXTINF:-1 tvg-name="FOXSPORTSMX" group-title="Deportes",FOXSPORTSMX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/foxsportsmx/mono.m3u8?token=0991fd3de0f0315c453c0ded2da713bd93cd9794-74-1791781337-1791763337
+
+#EXTINF:-1 tvg-name="FOXSPORTS2MX" group-title="Deportes",FOXSPORTS2MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/foxsports2mx/mono.m3u8?token=22280809899dd66f9c1f432799c17a846304836d-e3-1791781344-1791763344
+
+#EXTINF:-1 tvg-name="FOXSPORTS3MX" group-title="Deportes",FOXSPORTS3MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/foxsports3mx/mono.m3u8?token=d70a6aad0a48df652eb949b7bbc6a314bb206499-64-1791781350-1791763350
+
+#EXTINF:-1 tvg-name="FOXSPORTSPREMIUM" group-title="Deportes",FOXSPORTSPREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/foxsportspremium/mono.m3u8?token=6cb3c76bc5fdde0550c71c9e94da797fe5156a69-ed-1791781356-1791763356
+
+#EXTINF:-1 tvg-name="TUDN MX" group-title="Deportes",TUDN MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/tudn_mx/mono.m3u8?token=f069e905b03d1af21d5735f900662338cdb735c4-6b-1791781363-1791763363
+
+#EXTINF:-1 tvg-name="ESPNMX" group-title="Deportes",ESPNMX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/espnmx/mono.m3u8?token=ea168a3eb4be157768e75f41adfcbbe3b225bc2d-94-1791781369-1791763369
+
+#EXTINF:-1 tvg-name="ESPN2MX" group-title="Deportes",ESPN2MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/espn2mx/mono.m3u8?token=60648bf0bf51d3c500e4e21b71904f28eaf68c35-ff-1791781376-1791763376
+
+#EXTINF:-1 tvg-name="ESPN3MX" group-title="Deportes",ESPN3MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/espn3mx/mono.m3u8?token=0552b300cf238a295b8604c1fe5313209ef85006-8e-1791781382-1791763382
+
+#EXTINF:-1 tvg-name="ESPN4MX" group-title="Deportes",ESPN4MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/espn4mx/mono.m3u8?token=7f9419c14067467576249469adfb05b900b87c37-43-1791781389-1791763389
+
+#EXTINF:-1 tvg-name="CALIENTETV" group-title="Deportes",CALIENTETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/calientetv/mono.m3u8?token=c4a87bb18624e3fba9e2b52f6b96f4c798fd1709-7f-1791781395-1791763395
+
+#EXTINF:-1 tvg-name="AZTECA7" group-title="Deportes",AZTECA7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://4.ftlly.com/azteca7/mono.m3u8?token=36689beb0923ef7c376d709ecb8f36b90db1644b-e-1791781402-1791763402
+
+#EXTINF:-1 tvg-name="CANAL5" group-title="Deportes",CANAL5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/canal5/mono.m3u8?token=415c566007d049ebdaaa333169d301212860586b-8d-1791781408-1791763408
+
+#EXTINF:-1 tvg-name="TVC DEPORTES" group-title="Deportes",TVC DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/tvc_deportes/mono.m3u8?token=ec31a14eabdee4b54f0055b86a0c4dc89a692e61-77-1791781414-1791763414
+
+#EXTINF:-1 tvg-name="AZTECA DEPORTES" group-title="Deportes",AZTECA DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://9.ftlly.com/azteca_deportes/mono.m3u8?token=8bcef2f878277b17b577a03d1304e9b7efeaa4a5-92-1791781421-1791763421
+
+#EXTINF:-1 tvg-name="HISPORTS" group-title="Deportes",HISPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/hisports/mono.m3u8?token=607f474c1afdbe2c87e08ffbfdb44e7cd67cba56-80-1791781427-1791763427
+
+#EXTINF:-1 tvg-name="SKY SPORTS LALIGA" group-title="Deportes",SKY SPORTS LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/sky_sports_laliga/mono.m3u8?token=7224240ea8d1d9c47715e505915339f98932a8d2-c1-1791781434-1791763434
+
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA MX" group-title="Deportes",SKY BUNDESLIGA MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/sky_bundesliga_mx/mono.m3u8?token=b056bd01488bf68df31d6f9d57d5177e056c46ce-f8-1791781440-1791763440
+
+#EXTINF:-1 tvg-name="FOXDEPORTES" group-title="Deportes",FOXDEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/foxdeportes/mono.m3u8?token=5eaef1459c2f00d59ae46a916bd27697ebdf2209-65-1791781447-1791763447
+
+#EXTINF:-1 tvg-name="ESPNDEPORTES" group-title="Deportes",ESPNDEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/espndeportes/mono.m3u8?token=7acf73bac8489573ca859213ea4434b46eed9d86-85-1791781453-1791763453
+
+#EXTINF:-1 tvg-name="TUDN" group-title="Deportes",TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/tudn/mono.m3u8?token=e6b49c14d2a41c5694e4210dc0d14b1c0fe35caf-f9-1791781459-1791763459
+
+#EXTINF:-1 tvg-name="UNIVISION" group-title="Deportes",UNIVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/univision/mono.m3u8?token=a2df066777241cfed88779176d4d09eaf4d9e7e5-9b-1791781466-1791763466
+
+#EXTINF:-1 tvg-name="FOXSPORTS1 USA" group-title="Deportes",FOXSPORTS1 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/foxsports1_usa/mono.m3u8?token=baf960cc0d2f1768bf8bda2ce0cd6c6f97c37e06-8d-1791781472-1791763472
+
+#EXTINF:-1 tvg-name="FOXSPORTS2 USA" group-title="Deportes",FOXSPORTS2 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/foxsports2_usa/mono.m3u8?token=d88239c4139853ba27d555c4f5cab9d03ce94b94-fe-1791781478-1791763478
+
+#EXTINF:-1 tvg-name="UNIVERSO" group-title="Deportes",UNIVERSO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/universo/mono.m3u8?token=cdeb243868a98379e1f35b417ad96421e132dc01-1b-1791781485-1791763485
+
+#EXTINF:-1 tvg-name="BEINSPORTES" group-title="Deportes",BEINSPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/beinsportes/mono.m3u8?token=d3185184faa11098739bc12d57a47740e978f76f-bc-1791781491-1791763491
+
+#EXTINF:-1 tvg-name="UNIMAS" group-title="Deportes",UNIMAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/unimas/mono.m3u8?token=b6fed87ab1510de37b9a2be7a6a5a12d3886cf60-52-1791781498-1791763498
+
+#EXTINF:-1 tvg-name="BEINSPORT XTRA ESPANOL" group-title="Deportes",BEINSPORT XTRA ESPANOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/beinsport_xtra_espanol/mono.m3u8?token=a7bdcf5936fddc311066c8988502213099adc51d-33-1791781504-1791763504
+
+#EXTINF:-1 tvg-name="ESPN USA" group-title="Deportes",ESPN USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/espn_usa/mono.m3u8?token=51e62b5fc1290b39416f302a0b91d4138d6b04e7-e8-1791781511-1791763511
+
+#EXTINF:-1 tvg-name="ESPN2 USA" group-title="Deportes",ESPN2 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/espn2_usa/mono.m3u8?token=0bd484ac84a3e2cd81a0d492a20da24cf7779272-74-1791781517-1791763517
+
+#EXTINF:-1 tvg-name="ESPNU" group-title="Deportes",ESPNU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/espnu/mono.m3u8?token=5d4457f4d48d30bf34e22225dbb93bbb888c04fa-cd-1791781523-1791763523
+
+#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" group-title="Deportes",CBS SPORTS NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/cbs_sports_network/mono.m3u8?token=ab488e6a0109cafb6143d11d45658a15be98ca61-9e-1791781530-1791763530
+
+#EXTINF:-1 tvg-name="USANETWORK" group-title="Deportes",USANETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/usanetwork/mono.m3u8?token=8855319577c3d0633d381a14cbb4f7b0d675e8fd-dd-1791781536-1791763536
+
+#EXTINF:-1 tvg-name="TELEMUNDO" group-title="Deportes",TELEMUNDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/telemundo/mono.m3u8?token=0749e132323185aa249d517ec1c6bc9405bf5f24-1a-1791781543-1791763543
+
+#EXTINF:-1 tvg-name="EVENTOS13" group-title="Deportes",EVENTOS13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/eventos13/mono.m3u8?token=f7a5ce81ea04013f172c533727276b0b962ad591-7e-1791781549-1791763549
+
+#EXTINF:-1 tvg-name="PREMIERE1" group-title="Deportes",PREMIERE1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/premiere1/mono.m3u8?token=a1300caced54879c5c0f94236fbb8238d49bdb70-95-1791781555-1791763555
+
+#EXTINF:-1 tvg-name="PREMIERE2" group-title="Deportes",PREMIERE2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/premiere2/mono.m3u8?token=80fad2289a1e1cefe19afe6c8bde21033c50ab55-dc-1791781562-1791763562
+
+#EXTINF:-1 tvg-name="PREMIERE3" group-title="Deportes",PREMIERE3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/premiere3/mono.m3u8?token=3143d32531816b3f49acc950ac50b8e4b35a219f-8c-1791781568-1791763568
+
+#EXTINF:-1 tvg-name="PREMIERE4" group-title="Deportes",PREMIERE4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://4.ftlly.com/premiere4/mono.m3u8?token=988f775c074e918b9e4a882405c937023c9e44e3-60-1791781575-1791763575
+
+#EXTINF:-1 tvg-name="PREMIERE5" group-title="Deportes",PREMIERE5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/premiere5/mono.m3u8?token=1c84f16b5950a74ca1ba4da8e7c51bdf20a64a9c-26-1791781581-1791763581
+
+#EXTINF:-1 tvg-name="PREMIERE6" group-title="Deportes",PREMIERE6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/premiere6/mono.m3u8?token=c206e6eb0e3e3359c59c8d1cd6eff6c0b2ab60a6-11-1791781588-1791763588
+
+#EXTINF:-1 tvg-name="PREMIERE7" group-title="Deportes",PREMIERE7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/premiere7/mono.m3u8?token=9198cc4e2f95b4820884c2117b4a4151bfaa2465-92-1791781594-1791763594
+
+#EXTINF:-1 tvg-name="PREMIERE8" group-title="Deportes",PREMIERE8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://4.ftlly.com/premiere8/mono.m3u8?token=70af901e6faf1cc21e417cf2b080fa27166e2e09-fb-1791781601-1791763601
+
+#EXTINF:-1 tvg-name="SPORTV" group-title="Deportes",SPORTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/sportv/mono.m3u8?token=e4d9b92192b30e2fbd2c3bb7588acb10925d59bb-f2-1791781607-1791763607
+
+#EXTINF:-1 tvg-name="SPORTV2" group-title="Deportes",SPORTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/sportv2/mono.m3u8?token=31894de054d0cf3bd865fe96b752b2a753b41ef8-76-1791781613-1791763613
+
+#EXTINF:-1 tvg-name="SPORTV3" group-title="Deportes",SPORTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/sportv3/mono.m3u8?token=3573476cc88ab64c681466665843b23f52f3139b-71-1791781620-1791763620
+
+#EXTINF:-1 tvg-name="SPORTTV1" group-title="Deportes",SPORTTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/sporttv1/mono.m3u8?token=258de90d0a71d153eddd89bb9f7a890e057718bc-bb-1791781626-1791763626
+
+#EXTINF:-1 tvg-name="SPORTTV2" group-title="Deportes",SPORTTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://4.ftlly.com/sporttv2/mono.m3u8?token=ff27fcf5a17c1d836e0e1c4eef5bf1f95d3bda01-e5-1791781633-1791763633
+
+#EXTINF:-1 tvg-name="SPORTTV3" group-title="Deportes",SPORTTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/sporttv3/mono.m3u8?token=1352b326a3a2172ebc5db5a54fc671d23adaff8a-3c-1791781639-1791763639
+
+#EXTINF:-1 tvg-name="SPORTTV4" group-title="Deportes",SPORTTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/sporttv4/mono.m3u8?token=90887ba7565afbdba3f3ce5b39a7d3622d418400-86-1791781646-1791763646
+
+#EXTINF:-1 tvg-name="SPORTTV5" group-title="Deportes",SPORTTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/sporttv5/mono.m3u8?token=4b0326034544962a57dd8b1c879a492d18609e50-d5-1791781652-1791763652
+
+#EXTINF:-1 tvg-name="SPORTTV6" group-title="Deportes",SPORTTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://9.ftlly.com/sporttv6/mono.m3u8?token=cdd840628867f09f8f077d9c8ed9c129b050a033-6-1791781658-1791763658
+
+#EXTINF:-1 tvg-name="CANAL11 PT" group-title="Deportes",CANAL11 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://9.ftlly.com/canal11_pt/mono.m3u8?token=a68c9ea0a6b5e49aab096840a7151a77fe1c9728-b0-1791781665-1791763665
+
+#EXTINF:-1 tvg-name="ELEVEN1 PT" group-title="Deportes",ELEVEN1 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/eleven1_pt/mono.m3u8?token=d430eeba1fa06313554f693af753cca86577c6de-5b-1791781671-1791763671
+
+#EXTINF:-1 tvg-name="ELEVEN2 PT" group-title="Deportes",ELEVEN2 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://6.ftlly.com/eleven2_pt/mono.m3u8?token=91c702fc6118fbfe418694f15f3363ba41d684bd-a3-1791781678-1791763678
+
+#EXTINF:-1 tvg-name="ELEVEN3 PT" group-title="Deportes",ELEVEN3 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://4.ftlly.com/eleven3_pt/mono.m3u8?token=158e24e9bb32a5e963bdb7634f6eaa1132e75b29-5d-1791781684-1791763684
+
+#EXTINF:-1 tvg-name="ELEVEN4 PT" group-title="Deportes",ELEVEN4 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/eleven4_pt/mono.m3u8?token=ce6bb8b6cdbde0ab4e88e7e850dcc6cd9ab9c921-8-1791781691-1791763691
+
+#EXTINF:-1 tvg-name="ELEVEN5 PT" group-title="Deportes",ELEVEN5 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/eleven5_pt/mono.m3u8?token=ca147d8e86bb83526297931e989a4c6d038aea79-f4-1791781697-1791763697
+
+#EXTINF:-1 tvg-name="ELEVEN6 PT" group-title="Deportes",ELEVEN6 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/eleven6_pt/mono.m3u8?token=e2803fc0e9fc1225fd1bb8fbac70ae7fdd1143b7-4f-1791781703-1791763703
+
+#EXTINF:-1 tvg-name="DAZN1" group-title="Deportes",DAZN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/dazn1/mono.m3u8?token=c46a2b8b4ae7c3eff3b86bc4641e96b3311d9d2d-40-1791781710-1791763710
+
+#EXTINF:-1 tvg-name="DAZN2" group-title="Deportes",DAZN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/dazn2/mono.m3u8?token=b0702ce9bf18e3869b93bcf668cad9993c4d071e-8-1791781716-1791763716
+
+#EXTINF:-1 tvg-name="DAZN3" group-title="Deportes",DAZN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/dazn3/mono.m3u8?token=4533c7aa0ad1428f2e07ad3d0ecf0834f5529cce-4-1791781723-1791763723
+
+#EXTINF:-1 tvg-name="DAZN4" group-title="Deportes",DAZN4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/dazn4/mono.m3u8?token=669934adc0069064c04ded3c55b54245f1e6de8d-8-1791781729-1791763729
+
+#EXTINF:-1 tvg-name="DAZN LALIGA" group-title="Deportes",DAZN LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/dazn_laliga/mono.m3u8?token=9b755b73dfac6d2de5798ea965d5ddc65959315e-29-1791781736-1791763736
+
+#EXTINF:-1 tvg-name="LA1TVE" group-title="Deportes",LA1TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/la1tve/mono.m3u8?token=ba17eca02dcb0a56ffedecbd6abc0c8aeb56540c-40-1791781742-1791763742
+
+#EXTINF:-1 tvg-name="LIGADECAMPEONES1" group-title="Deportes",LIGADECAMPEONES1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/ligadecampeones1/mono.m3u8?token=64d8462c7d5af27aaac7d22f102ff6aa5bb031c4-73-1791781748-1791763748
+
+#EXTINF:-1 tvg-name="LIGADECAMPEONES2" group-title="Deportes",LIGADECAMPEONES2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/ligadecampeones2/mono.m3u8?token=5dddba1a6b49cdb469391f8f60e14526cbd323ea-18-1791781755-1791763755
+
+#EXTINF:-1 tvg-name="LIGADECAMPEONES3" group-title="Deportes",LIGADECAMPEONES3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/ligadecampeones3/mono.m3u8?token=6032be3067430e3cc029e8adff333dd2518e6fe3-44-1791781761-1791763761
+
+#EXTINF:-1 tvg-name="M LALIGATV" group-title="Deportes",M LALIGATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://10.ftlly.com/m_laligatv/mono.m3u8?token=274fbee25df820d14ce05c9e619cbbfd9f7f5573-cc-1791781768-1791763768
+
+#EXTINF:-1 tvg-name="LALIGATVBAR" group-title="Deportes",LALIGATVBAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/laligatvbar/mono.m3u8?token=34dfea1aeffebb1b390dee4f116ae0f064204ac2-54-1791781774-1791763774
+
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA1" group-title="Deportes",SKY BUNDESLIGA1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://2.ftlly.com/sky_bundesliga1/mono.m3u8?token=b271af399aa2a9fe9450ba51759d4d33b1949ece-2a-1791781781-1791763781
+
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA2" group-title="Deportes",SKY BUNDESLIGA2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://4.ftlly.com/sky_bundesliga2/mono.m3u8?token=913dbbdb06b6d2cf20ea4d161edaf041a1d62e85-7f-1791781787-1791763787
+
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA3" group-title="Deportes",SKY BUNDESLIGA3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/sky_bundesliga3/mono.m3u8?token=ffb334bb17f970afcf6e224b6b63e333c35fbab5-85-1791781793-1791763793
+
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA4" group-title="Deportes",SKY BUNDESLIGA4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/sky_bundesliga4/mono.m3u8?token=487a446611a76c5f7b6f21e55357d6636282491f-12-1791781800-1791763800
+
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA5" group-title="Deportes",SKY BUNDESLIGA5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://7.ftlly.com/sky_bundesliga5/mono.m3u8?token=98f518e0ef8090bff17ebea4cd9beccdcf93720b-6d-1791781806-1791763806
+
+#EXTINF:-1 tvg-name="DAZN1 DE" group-title="Deportes",DAZN1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://8.ftlly.com/dazn1_de/mono.m3u8?token=a9aa7bf03fe5576bb5a6704b2c305015c47d7230-fc-1791781813-1791763813
+
+#EXTINF:-1 tvg-name="DAZN2 DE" group-title="Deportes",DAZN2 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://11.ftlly.com/dazn2_de/mono.m3u8?token=4ac95f09d51d9ea6dbaddf9c81c9e5256764e58f-19-1791781819-1791763819
+
+#EXTINF:-1 tvg-name="ESPN1 NL" group-title="Deportes",ESPN1 NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://3.ftlly.com/espn1_nl/mono.m3u8?token=7b818c12197c3270ed0b28c5b168a02bc93cfd6e-83-1791781825-1791763825
+
+#EXTINF:-1 tvg-name="ESPN2 NL" group-title="Deportes",ESPN2 NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://9.ftlly.com/espn2_nl/mono.m3u8?token=c912f271cfab46d6cb58f2ff9abdc56c6949e453-7c-1791781832-1791763832
+
+#EXTINF:-1 tvg-name="ESPN3 NL" group-title="Deportes",ESPN3 NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://9.ftlly.com/espn3_nl/mono.m3u8?token=7879361f537cb31097a8781877fab5896017b8bb-74-1791781838-1791763838
+
+#EXTINF:-1 tvg-name="ELEVENPRO1 BE" group-title="Deportes",ELEVENPRO1 BE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvf90.com/
+https://5.ftlly.com/elevenpro1_be/mono.m3u8?token=1829d2d7896dceb39d85230273ee6f0f4ee32e45-5b-1791781845-1791763845
+
+
+
+
+
+-------------------------------JUANSIMODO TV--------------------------------------------------
 #EXTINF:-1,13-Sinart
 http://200.35.176.154:8000/play/a00c/index.m3u8
 #EXTINF:-1,A&E
