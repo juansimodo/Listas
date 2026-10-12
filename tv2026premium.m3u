@@ -1,1087 +1,479 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/espn/mono.m3u8?token=0091e5a2365b4604008b483c0818f64cdfbb4247-a3-1791781157-1791763157
+#EXTINF:-1,adultswim
+https://srregio.online/10326/redirect.php?canal=adultswim&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPN2" group-title="Deportes",ESPN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/espn2/mono.m3u8?token=4726a233e0cf7717fe6481eaa53b2b0432699368-77-1791781163-1791763163
+#EXTINF:-1,ae
+https://srregio.online/10326/redirect.php?canal=ae&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPN3" group-title="Deportes",ESPN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/espn3/mono.m3u8?token=9d53f536aea32d626b38c6eecee8365d59810dc2-71-1791781170-1791763170
+#EXTINF:-1,amas
+https://srregio.online/10326/redirect.php?canal=amas&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPN4" group-title="Deportes",ESPN4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/espn4/mono.m3u8?token=b41f1fb82322af2abfbf9e5896f4eea66f6515b2-2f-1791781176-1791763176
+#EXTINF:-1,amc
+https://srregio.online/10326/redirect.php?canal=amc&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPN5" group-title="Deportes",ESPN5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/espn5/mono.m3u8?token=feea117d20b17e7d1852abe3268b94ece69ab782-84-1791781183-1791763183
+#EXTINF:-1,animalplanet
+https://srregio.online/10326/redirect.php?canal=animalplanet&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPN6" group-title="Deportes",ESPN6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/espn6/mono.m3u8?token=5b6d3a6ec608a6cec370c1fbe7f6a76d825549bc-78-1791781189-1791763189
+#EXTINF:-1,axn
+https://srregio.online/10326/redirect.php?canal=axn&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPN7" group-title="Deportes",ESPN7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/espn7/mono.m3u8?token=ccce7ebdef0f3bf897bae181013ae6dae5c37f1f-b-1791781195-1791763195
+#EXTINF:-1,azteca7
+https://srregio.online/10326/redirect.php?canal=azteca7&key=srregio.net
 
-#EXTINF:-1 tvg-name="DSPORTS" group-title="Deportes",DSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/dsports/mono.m3u8?token=c8e463acf6410b9e3da7c538d290d3d49e1464d7-b-1791781202-1791763202
+#EXTINF:-1,aztecadeportes
+https://srregio.online/10326/redirect.php?canal=aztecadeportes&key=srregio.net
 
-#EXTINF:-1 tvg-name="DSPORTS2" group-title="Deportes",DSPORTS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/dsports2/mono.m3u8?token=a769ca2d2346fdbf2514a53d4b378723329b9634-b0-1791781208-1791763208
+#EXTINF:-1,aztecauno
+https://srregio.online/10326/redirect.php?canal=aztecauno&key=srregio.net
 
-#EXTINF:-1 tvg-name="DSPORTSPLUS" group-title="Deportes",DSPORTSPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/dsportsplus/mono.m3u8?token=396f0c892cabfc70177f62dd2f8bdac03bc5ff1f-0-1791781215-1791763215
+#EXTINF:-1,BabyFirst
+https://srregio.online/10326/redirect.php?canal=BabyFirst&key=srregio.net
 
-#EXTINF:-1 tvg-name="GOLTV" group-title="Deportes",GOLTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/goltv/mono.m3u8?token=ff4211911a0ac9cf18ea37ae7d5b72e43a92db42-b3-1791781221-1791763221
+#EXTINF:-1,BabyTV
+https://srregio.online/10326/redirect.php?canal=BabyTV&key=srregio.net
 
-#EXTINF:-1 tvg-name="VTVPLUS" group-title="Deportes",VTVPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/vtvplus/mono.m3u8?token=38846accc99585ce55496022c8eeb417f0c913b8-c6-1791781227-1791763227
+#EXTINF:-1,BitMe
+https://srregio.online/10326/redirect.php?canal=BitMe&key=srregio.net
 
-#EXTINF:-1 tvg-name="ECDF LIGAPRO" group-title="Deportes",ECDF LIGAPRO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/ecdf_ligapro/mono.m3u8?token=69cf4d630dff31166e665d937356fb287e98b26a-7d-1791781234-1791763234
+#EXTINF:-1,BobEsponja-24/7
+https://srregio.online/10326/redirect.php?canal=BobEsponja-24%2F7&key=srregio.net
 
-#EXTINF:-1 tvg-name="FOXSPORTS" group-title="Deportes",FOXSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/foxsports/mono.m3u8?token=c9d164b1769bbd22de92a2b0077ce3bc0c26e7fd-2d-1791781240-1791763240
+#EXTINF:-1,Boomerang
+https://srregio.online/10326/redirect.php?canal=Boomerang&key=srregio.net
 
-#EXTINF:-1 tvg-name="FOXSPORTS2" group-title="Deportes",FOXSPORTS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/foxsports2/mono.m3u8?token=a9d5c63fb59c89fd92f32823a3cc64fc54d19825-83-1791781247-1791763247
+#EXTINF:-1,Canal 5 MX
+https://srregio.online/10326/redirect.php?canal=Canal%205%20MX&key=srregio.net
 
-#EXTINF:-1 tvg-name="FOXSPORTS3" group-title="Deportes",FOXSPORTS3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/foxsports3/mono.m3u8?token=8f54a81e217dbb1d1ac98c965657c8b00be64a29-6f-1791781253-1791763253
+#EXTINF:-1,Canal22MX
+https://srregio.online/10326/redirect.php?canal=Canal22MX&key=srregio.net
 
-#EXTINF:-1 tvg-name="TNTSPORTS" group-title="Deportes",TNTSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/tntsports/mono.m3u8?token=556a51018dfe2df91b3b0b0dd469adf2bb197005-83-1791781260-1791763260
+#EXTINF:-1,Canal 26 Aguascalientes
+https://srregio.online/10326/redirect.php?canal=Canal%2026%20Aguascalientes&key=srregio.net
 
-#EXTINF:-1 tvg-name="ESPNPREMIUM" group-title="Deportes",ESPNPREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/espnpremium/mono.m3u8?token=642e49fc95865bb828762b2cc4ceb84a921400e7-52-1791781266-1791763266
+#EXTINF:-1,Canal Once MX
+https://srregio.online/10326/redirect.php?canal=Canal%20Once%20MX&key=srregio.net
 
-#EXTINF:-1 tvg-name="TYCSPORTS" group-title="Deportes",TYCSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/tycsports/mono.m3u8?token=0ba0e8af873a4d66e832538cbb297d84d678e993-27-1791781273-1791763273
+#EXTINF:-1,Caracol
+https://srregio.online/10326/redirect.php?canal=Caracol&key=srregio.net
 
-#EXTINF:-1 tvg-name="TYCINTERNACIONAL" group-title="Deportes",TYCINTERNACIONAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/tycinternacional/mono.m3u8?token=b202789c91fbcb46d4d7a21dc1690802c7b47891-77-1791781279-1791763279
-
-#EXTINF:-1 tvg-name="TELEFE" group-title="Deportes",TELEFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/telefe/mono.m3u8?token=6fe80bbaff2b2c918e437aef3a3f5279d0f8d7a2-1b-1791781285-1791763285
-
-#EXTINF:-1 tvg-name="TVPUBLICA" group-title="Deportes",TVPUBLICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/tvpublica/mono.m3u8?token=285464ce52f60bea080192edf98653a9f4e2a0b5-21-1791781292-1791763292
-
-#EXTINF:-1 tvg-name="GOLPERU" group-title="Deportes",GOLPERU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/golperu/mono.m3u8?token=0fb56cc250df249fed2159901578823983bfa10c-5c-1791781298-1791763298
-
-#EXTINF:-1 tvg-name="LIGA1MAX" group-title="Deportes",LIGA1MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/liga1max/mono.m3u8?token=4ba6bcc0fb2cdf96686a1143100130e6c661a82b-71-1791781305-1791763305
-
-#EXTINF:-1 tvg-name="MOVISTAR" group-title="Deportes",MOVISTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/movistar/mono.m3u8?token=950b4b7d972eb872227ad8502a705a1339997f39-e-1791781311-1791763311
-
-#EXTINF:-1 tvg-name="WINSPORTSPLUS" group-title="Deportes",WINSPORTSPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/winsportsplus/mono.m3u8?token=95786ea282ea9febf3063161728c985ef0fc49c4-b7-1791781318-1791763318
-
-#EXTINF:-1 tvg-name="WINSPORTS2" group-title="Deportes",WINSPORTS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/winsports2/mono.m3u8?token=f16ded1b61bead34fbd9084d96408a09cb163dee-6f-1791781324-1791763324
-
-#EXTINF:-1 tvg-name="WINSPORTS" group-title="Deportes",WINSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/winsports/mono.m3u8?token=9081d821abdf882ead726818353eec2fdbf44079-22-1791781331-1791763331
-
-#EXTINF:-1 tvg-name="FOXSPORTSMX" group-title="Deportes",FOXSPORTSMX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/foxsportsmx/mono.m3u8?token=0991fd3de0f0315c453c0ded2da713bd93cd9794-74-1791781337-1791763337
-
-#EXTINF:-1 tvg-name="FOXSPORTS2MX" group-title="Deportes",FOXSPORTS2MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/foxsports2mx/mono.m3u8?token=22280809899dd66f9c1f432799c17a846304836d-e3-1791781344-1791763344
-
-#EXTINF:-1 tvg-name="FOXSPORTS3MX" group-title="Deportes",FOXSPORTS3MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/foxsports3mx/mono.m3u8?token=d70a6aad0a48df652eb949b7bbc6a314bb206499-64-1791781350-1791763350
-
-#EXTINF:-1 tvg-name="FOXSPORTSPREMIUM" group-title="Deportes",FOXSPORTSPREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/foxsportspremium/mono.m3u8?token=6cb3c76bc5fdde0550c71c9e94da797fe5156a69-ed-1791781356-1791763356
-
-#EXTINF:-1 tvg-name="TUDN MX" group-title="Deportes",TUDN MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/tudn_mx/mono.m3u8?token=f069e905b03d1af21d5735f900662338cdb735c4-6b-1791781363-1791763363
-
-#EXTINF:-1 tvg-name="ESPNMX" group-title="Deportes",ESPNMX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/espnmx/mono.m3u8?token=ea168a3eb4be157768e75f41adfcbbe3b225bc2d-94-1791781369-1791763369
-
-#EXTINF:-1 tvg-name="ESPN2MX" group-title="Deportes",ESPN2MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/espn2mx/mono.m3u8?token=60648bf0bf51d3c500e4e21b71904f28eaf68c35-ff-1791781376-1791763376
-
-#EXTINF:-1 tvg-name="ESPN3MX" group-title="Deportes",ESPN3MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/espn3mx/mono.m3u8?token=0552b300cf238a295b8604c1fe5313209ef85006-8e-1791781382-1791763382
-
-#EXTINF:-1 tvg-name="ESPN4MX" group-title="Deportes",ESPN4MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/espn4mx/mono.m3u8?token=7f9419c14067467576249469adfb05b900b87c37-43-1791781389-1791763389
-
-#EXTINF:-1 tvg-name="CALIENTETV" group-title="Deportes",CALIENTETV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/calientetv/mono.m3u8?token=c4a87bb18624e3fba9e2b52f6b96f4c798fd1709-7f-1791781395-1791763395
-
-#EXTINF:-1 tvg-name="AZTECA7" group-title="Deportes",AZTECA7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/azteca7/mono.m3u8?token=36689beb0923ef7c376d709ecb8f36b90db1644b-e-1791781402-1791763402
-
-#EXTINF:-1 tvg-name="CANAL5" group-title="Deportes",CANAL5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/canal5/mono.m3u8?token=415c566007d049ebdaaa333169d301212860586b-8d-1791781408-1791763408
-
-#EXTINF:-1 tvg-name="TVC DEPORTES" group-title="Deportes",TVC DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/tvc_deportes/mono.m3u8?token=ec31a14eabdee4b54f0055b86a0c4dc89a692e61-77-1791781414-1791763414
-
-#EXTINF:-1 tvg-name="AZTECA DEPORTES" group-title="Deportes",AZTECA DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/azteca_deportes/mono.m3u8?token=8bcef2f878277b17b577a03d1304e9b7efeaa4a5-92-1791781421-1791763421
-
-#EXTINF:-1 tvg-name="HISPORTS" group-title="Deportes",HISPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/hisports/mono.m3u8?token=607f474c1afdbe2c87e08ffbfdb44e7cd67cba56-80-1791781427-1791763427
-
-#EXTINF:-1 tvg-name="SKY SPORTS LALIGA" group-title="Deportes",SKY SPORTS LALIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/sky_sports_laliga/mono.m3u8?token=7224240ea8d1d9c47715e505915339f98932a8d2-c1-1791781434-1791763434
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA MX" group-title="Deportes",SKY BUNDESLIGA MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/sky_bundesliga_mx/mono.m3u8?token=b056bd01488bf68df31d6f9d57d5177e056c46ce-f8-1791781440-1791763440
-
-#EXTINF:-1 tvg-name="FOXDEPORTES" group-title="Deportes",FOXDEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/foxdeportes/mono.m3u8?token=5eaef1459c2f00d59ae46a916bd27697ebdf2209-65-1791781447-1791763447
-
-#EXTINF:-1 tvg-name="ESPNDEPORTES" group-title="Deportes",ESPNDEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/espndeportes/mono.m3u8?token=7acf73bac8489573ca859213ea4434b46eed9d86-85-1791781453-1791763453
-
-#EXTINF:-1 tvg-name="TUDN" group-title="Deportes",TUDN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/tudn/mono.m3u8?token=e6b49c14d2a41c5694e4210dc0d14b1c0fe35caf-f9-1791781459-1791763459
-
-#EXTINF:-1 tvg-name="UNIVISION" group-title="Deportes",UNIVISION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/univision/mono.m3u8?token=a2df066777241cfed88779176d4d09eaf4d9e7e5-9b-1791781466-1791763466
-
-#EXTINF:-1 tvg-name="FOXSPORTS1 USA" group-title="Deportes",FOXSPORTS1 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/foxsports1_usa/mono.m3u8?token=baf960cc0d2f1768bf8bda2ce0cd6c6f97c37e06-8d-1791781472-1791763472
-
-#EXTINF:-1 tvg-name="FOXSPORTS2 USA" group-title="Deportes",FOXSPORTS2 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/foxsports2_usa/mono.m3u8?token=d88239c4139853ba27d555c4f5cab9d03ce94b94-fe-1791781478-1791763478
-
-#EXTINF:-1 tvg-name="UNIVERSO" group-title="Deportes",UNIVERSO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/universo/mono.m3u8?token=cdeb243868a98379e1f35b417ad96421e132dc01-1b-1791781485-1791763485
-
-#EXTINF:-1 tvg-name="BEINSPORTES" group-title="Deportes",BEINSPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/beinsportes/mono.m3u8?token=d3185184faa11098739bc12d57a47740e978f76f-bc-1791781491-1791763491
-
-#EXTINF:-1 tvg-name="UNIMAS" group-title="Deportes",UNIMAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/unimas/mono.m3u8?token=b6fed87ab1510de37b9a2be7a6a5a12d3886cf60-52-1791781498-1791763498
-
-#EXTINF:-1 tvg-name="BEINSPORT XTRA ESPANOL" group-title="Deportes",BEINSPORT XTRA ESPANOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/beinsport_xtra_espanol/mono.m3u8?token=a7bdcf5936fddc311066c8988502213099adc51d-33-1791781504-1791763504
-
-#EXTINF:-1 tvg-name="ESPN USA" group-title="Deportes",ESPN USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/espn_usa/mono.m3u8?token=51e62b5fc1290b39416f302a0b91d4138d6b04e7-e8-1791781511-1791763511
-
-#EXTINF:-1 tvg-name="ESPN2 USA" group-title="Deportes",ESPN2 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/espn2_usa/mono.m3u8?token=0bd484ac84a3e2cd81a0d492a20da24cf7779272-74-1791781517-1791763517
-
-#EXTINF:-1 tvg-name="ESPNU" group-title="Deportes",ESPNU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/espnu/mono.m3u8?token=5d4457f4d48d30bf34e22225dbb93bbb888c04fa-cd-1791781523-1791763523
-
-#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" group-title="Deportes",CBS SPORTS NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/cbs_sports_network/mono.m3u8?token=ab488e6a0109cafb6143d11d45658a15be98ca61-9e-1791781530-1791763530
-
-#EXTINF:-1 tvg-name="USANETWORK" group-title="Deportes",USANETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/usanetwork/mono.m3u8?token=8855319577c3d0633d381a14cbb4f7b0d675e8fd-dd-1791781536-1791763536
-
-#EXTINF:-1 tvg-name="TELEMUNDO" group-title="Deportes",TELEMUNDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/telemundo/mono.m3u8?token=0749e132323185aa249d517ec1c6bc9405bf5f24-1a-1791781543-1791763543
-
-#EXTINF:-1 tvg-name="EVENTOS13" group-title="Deportes",EVENTOS13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/eventos13/mono.m3u8?token=f7a5ce81ea04013f172c533727276b0b962ad591-7e-1791781549-1791763549
-
-#EXTINF:-1 tvg-name="PREMIERE1" group-title="Deportes",PREMIERE1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/premiere1/mono.m3u8?token=a1300caced54879c5c0f94236fbb8238d49bdb70-95-1791781555-1791763555
-
-#EXTINF:-1 tvg-name="PREMIERE2" group-title="Deportes",PREMIERE2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/premiere2/mono.m3u8?token=80fad2289a1e1cefe19afe6c8bde21033c50ab55-dc-1791781562-1791763562
-
-#EXTINF:-1 tvg-name="PREMIERE3" group-title="Deportes",PREMIERE3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/premiere3/mono.m3u8?token=3143d32531816b3f49acc950ac50b8e4b35a219f-8c-1791781568-1791763568
-
-#EXTINF:-1 tvg-name="PREMIERE4" group-title="Deportes",PREMIERE4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/premiere4/mono.m3u8?token=988f775c074e918b9e4a882405c937023c9e44e3-60-1791781575-1791763575
-
-#EXTINF:-1 tvg-name="PREMIERE5" group-title="Deportes",PREMIERE5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/premiere5/mono.m3u8?token=1c84f16b5950a74ca1ba4da8e7c51bdf20a64a9c-26-1791781581-1791763581
-
-#EXTINF:-1 tvg-name="PREMIERE6" group-title="Deportes",PREMIERE6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/premiere6/mono.m3u8?token=c206e6eb0e3e3359c59c8d1cd6eff6c0b2ab60a6-11-1791781588-1791763588
-
-#EXTINF:-1 tvg-name="PREMIERE7" group-title="Deportes",PREMIERE7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/premiere7/mono.m3u8?token=9198cc4e2f95b4820884c2117b4a4151bfaa2465-92-1791781594-1791763594
-
-#EXTINF:-1 tvg-name="PREMIERE8" group-title="Deportes",PREMIERE8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/premiere8/mono.m3u8?token=70af901e6faf1cc21e417cf2b080fa27166e2e09-fb-1791781601-1791763601
-
-#EXTINF:-1 tvg-name="SPORTV" group-title="Deportes",SPORTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/sportv/mono.m3u8?token=e4d9b92192b30e2fbd2c3bb7588acb10925d59bb-f2-1791781607-1791763607
-
-#EXTINF:-1 tvg-name="SPORTV2" group-title="Deportes",SPORTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/sportv2/mono.m3u8?token=31894de054d0cf3bd865fe96b752b2a753b41ef8-76-1791781613-1791763613
-
-#EXTINF:-1 tvg-name="SPORTV3" group-title="Deportes",SPORTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/sportv3/mono.m3u8?token=3573476cc88ab64c681466665843b23f52f3139b-71-1791781620-1791763620
-
-#EXTINF:-1 tvg-name="SPORTTV1" group-title="Deportes",SPORTTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/sporttv1/mono.m3u8?token=258de90d0a71d153eddd89bb9f7a890e057718bc-bb-1791781626-1791763626
-
-#EXTINF:-1 tvg-name="SPORTTV2" group-title="Deportes",SPORTTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/sporttv2/mono.m3u8?token=ff27fcf5a17c1d836e0e1c4eef5bf1f95d3bda01-e5-1791781633-1791763633
-
-#EXTINF:-1 tvg-name="SPORTTV3" group-title="Deportes",SPORTTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/sporttv3/mono.m3u8?token=1352b326a3a2172ebc5db5a54fc671d23adaff8a-3c-1791781639-1791763639
-
-#EXTINF:-1 tvg-name="SPORTTV4" group-title="Deportes",SPORTTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/sporttv4/mono.m3u8?token=90887ba7565afbdba3f3ce5b39a7d3622d418400-86-1791781646-1791763646
-
-#EXTINF:-1 tvg-name="SPORTTV5" group-title="Deportes",SPORTTV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/sporttv5/mono.m3u8?token=4b0326034544962a57dd8b1c879a492d18609e50-d5-1791781652-1791763652
-
-#EXTINF:-1 tvg-name="SPORTTV6" group-title="Deportes",SPORTTV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/sporttv6/mono.m3u8?token=cdd840628867f09f8f077d9c8ed9c129b050a033-6-1791781658-1791763658
-
-#EXTINF:-1 tvg-name="CANAL11 PT" group-title="Deportes",CANAL11 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/canal11_pt/mono.m3u8?token=a68c9ea0a6b5e49aab096840a7151a77fe1c9728-b0-1791781665-1791763665
-
-#EXTINF:-1 tvg-name="ELEVEN1 PT" group-title="Deportes",ELEVEN1 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/eleven1_pt/mono.m3u8?token=d430eeba1fa06313554f693af753cca86577c6de-5b-1791781671-1791763671
-
-#EXTINF:-1 tvg-name="ELEVEN2 PT" group-title="Deportes",ELEVEN2 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://6.ftlly.com/eleven2_pt/mono.m3u8?token=91c702fc6118fbfe418694f15f3363ba41d684bd-a3-1791781678-1791763678
-
-#EXTINF:-1 tvg-name="ELEVEN3 PT" group-title="Deportes",ELEVEN3 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/eleven3_pt/mono.m3u8?token=158e24e9bb32a5e963bdb7634f6eaa1132e75b29-5d-1791781684-1791763684
-
-#EXTINF:-1 tvg-name="ELEVEN4 PT" group-title="Deportes",ELEVEN4 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/eleven4_pt/mono.m3u8?token=ce6bb8b6cdbde0ab4e88e7e850dcc6cd9ab9c921-8-1791781691-1791763691
-
-#EXTINF:-1 tvg-name="ELEVEN5 PT" group-title="Deportes",ELEVEN5 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/eleven5_pt/mono.m3u8?token=ca147d8e86bb83526297931e989a4c6d038aea79-f4-1791781697-1791763697
-
-#EXTINF:-1 tvg-name="ELEVEN6 PT" group-title="Deportes",ELEVEN6 PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/eleven6_pt/mono.m3u8?token=e2803fc0e9fc1225fd1bb8fbac70ae7fdd1143b7-4f-1791781703-1791763703
-
-#EXTINF:-1 tvg-name="DAZN1" group-title="Deportes",DAZN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/dazn1/mono.m3u8?token=c46a2b8b4ae7c3eff3b86bc4641e96b3311d9d2d-40-1791781710-1791763710
-
-#EXTINF:-1 tvg-name="DAZN2" group-title="Deportes",DAZN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/dazn2/mono.m3u8?token=b0702ce9bf18e3869b93bcf668cad9993c4d071e-8-1791781716-1791763716
-
-#EXTINF:-1 tvg-name="DAZN3" group-title="Deportes",DAZN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/dazn3/mono.m3u8?token=4533c7aa0ad1428f2e07ad3d0ecf0834f5529cce-4-1791781723-1791763723
-
-#EXTINF:-1 tvg-name="DAZN4" group-title="Deportes",DAZN4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/dazn4/mono.m3u8?token=669934adc0069064c04ded3c55b54245f1e6de8d-8-1791781729-1791763729
-
-#EXTINF:-1 tvg-name="DAZN LALIGA" group-title="Deportes",DAZN LALIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/dazn_laliga/mono.m3u8?token=9b755b73dfac6d2de5798ea965d5ddc65959315e-29-1791781736-1791763736
-
-#EXTINF:-1 tvg-name="LA1TVE" group-title="Deportes",LA1TVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/la1tve/mono.m3u8?token=ba17eca02dcb0a56ffedecbd6abc0c8aeb56540c-40-1791781742-1791763742
-
-#EXTINF:-1 tvg-name="LIGADECAMPEONES1" group-title="Deportes",LIGADECAMPEONES1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/ligadecampeones1/mono.m3u8?token=64d8462c7d5af27aaac7d22f102ff6aa5bb031c4-73-1791781748-1791763748
-
-#EXTINF:-1 tvg-name="LIGADECAMPEONES2" group-title="Deportes",LIGADECAMPEONES2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/ligadecampeones2/mono.m3u8?token=5dddba1a6b49cdb469391f8f60e14526cbd323ea-18-1791781755-1791763755
-
-#EXTINF:-1 tvg-name="LIGADECAMPEONES3" group-title="Deportes",LIGADECAMPEONES3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/ligadecampeones3/mono.m3u8?token=6032be3067430e3cc029e8adff333dd2518e6fe3-44-1791781761-1791763761
-
-#EXTINF:-1 tvg-name="M LALIGATV" group-title="Deportes",M LALIGATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://10.ftlly.com/m_laligatv/mono.m3u8?token=274fbee25df820d14ce05c9e619cbbfd9f7f5573-cc-1791781768-1791763768
-
-#EXTINF:-1 tvg-name="LALIGATVBAR" group-title="Deportes",LALIGATVBAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/laligatvbar/mono.m3u8?token=34dfea1aeffebb1b390dee4f116ae0f064204ac2-54-1791781774-1791763774
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA1" group-title="Deportes",SKY BUNDESLIGA1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://2.ftlly.com/sky_bundesliga1/mono.m3u8?token=b271af399aa2a9fe9450ba51759d4d33b1949ece-2a-1791781781-1791763781
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA2" group-title="Deportes",SKY BUNDESLIGA2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://4.ftlly.com/sky_bundesliga2/mono.m3u8?token=913dbbdb06b6d2cf20ea4d161edaf041a1d62e85-7f-1791781787-1791763787
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA3" group-title="Deportes",SKY BUNDESLIGA3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/sky_bundesliga3/mono.m3u8?token=ffb334bb17f970afcf6e224b6b63e333c35fbab5-85-1791781793-1791763793
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA4" group-title="Deportes",SKY BUNDESLIGA4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/sky_bundesliga4/mono.m3u8?token=487a446611a76c5f7b6f21e55357d6636282491f-12-1791781800-1791763800
-
-#EXTINF:-1 tvg-name="SKY BUNDESLIGA5" group-title="Deportes",SKY BUNDESLIGA5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://7.ftlly.com/sky_bundesliga5/mono.m3u8?token=98f518e0ef8090bff17ebea4cd9beccdcf93720b-6d-1791781806-1791763806
-
-#EXTINF:-1 tvg-name="DAZN1 DE" group-title="Deportes",DAZN1 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://8.ftlly.com/dazn1_de/mono.m3u8?token=a9aa7bf03fe5576bb5a6704b2c305015c47d7230-fc-1791781813-1791763813
-
-#EXTINF:-1 tvg-name="DAZN2 DE" group-title="Deportes",DAZN2 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://11.ftlly.com/dazn2_de/mono.m3u8?token=4ac95f09d51d9ea6dbaddf9c81c9e5256764e58f-19-1791781819-1791763819
-
-#EXTINF:-1 tvg-name="ESPN1 NL" group-title="Deportes",ESPN1 NL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://3.ftlly.com/espn1_nl/mono.m3u8?token=7b818c12197c3270ed0b28c5b168a02bc93cfd6e-83-1791781825-1791763825
-
-#EXTINF:-1 tvg-name="ESPN2 NL" group-title="Deportes",ESPN2 NL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/espn2_nl/mono.m3u8?token=c912f271cfab46d6cb58f2ff9abdc56c6949e453-7c-1791781832-1791763832
-
-#EXTINF:-1 tvg-name="ESPN3 NL" group-title="Deportes",ESPN3 NL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://9.ftlly.com/espn3_nl/mono.m3u8?token=7879361f537cb31097a8781877fab5896017b8bb-74-1791781838-1791763838
-
-#EXTINF:-1 tvg-name="ELEVENPRO1 BE" group-title="Deportes",ELEVENPRO1 BE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvf90.com/
-https://5.ftlly.com/elevenpro1_be/mono.m3u8?token=1829d2d7896dceb39d85230273ee6f0f4ee32e45-5b-1791781845-1791763845
-
-::::::::::::::::::::::::::::::::juansimodotv:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-#EXTINF:-1,13-Sinart
-http://200.35.176.154:8000/play/a00c/index.m3u8
-#EXTINF:-1,A&E
-http://138.121.15.230:9002/A&E/index.m3u8
-#EXTINF:-1,A&E Opción 2
-http://200.35.176.154:8000/play/a034/index.m3u8
-#EXTINF:-1,A&E HD
-http://200.35.176.154:8000/play/a0qw/index.m3u8
-#EXTINF:-1,ABC
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
-#EXTINF:-1,Adult Swim
-http://200.35.176.154:8000/play/a04n/index.m3u8
-#EXTINF:-1,AL JAZEERA
-http://190.11.225.124:5000/live/aljazeera_hd/playlist.m3u8
-#EXTINF:-1,ALCARRIA TV
-http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1,AMC
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:-1,AMC Opción 2
-http://45.162.193.35/AMC/index.m3u8
-#EXTINF:-1,AMC Opción 3
-http://200.35.176.154:8000/play/a01i/index.m3u8
-#EXTINF:-1,AMC HD
-http://200.35.176.154:8000/play/a0qx/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
-#EXTINF:-1,Animal Planet Opción 2
-http://200.35.176.154:8000/play/a037/index.m3u8
-#EXTINF:-1,ARTV
-http://45.162.193.35/ARTV/index.m3u8
-#EXTINF:-1,AXN
-http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1,AXN Opción 2
-http://200.35.176.154:8000/play/a01g/index.m3u8
-#EXTINF:-1,AXN HD
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1,AZ CINEMA
-http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
-#EXTINF:-1,Azcorazon
-http://200.35.176.154:8000/play/a017/index.m3u8
-#EXTINF:-1,AZTECA 7
-http://200.35.176.154:8000/play/a064/index.m3u8
-#EXTINF:-1,AZTECA 7 opcion 2
-https://dai.google.com/linear/hls/pa/event/5HKtAWzrTVGjPNdt1HNd_Q/stream/fd4489f3-ec2d-4afe-878f-13c8d8d03bba:CHS/master.m3u8
-#EXTINF:-1,AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1,AZTECA DEPORTES HD
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1,AZTECA INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,Baby First
-http://200.35.176.154:8000/play/a025/index.m3u8
-#EXTINF:-1,BABY TV
-http://138.121.15.230:9002/BABY-TV/index.m3u8
-#EXTINF:-1,BANDAMAX
-http://177.234.249.135:8888/Bandamax/index.m3u8
-#EXTINF:-1,BANDAMAX Opción 2
-http://200.35.176.154:8000/play/a04y/index.m3u8
-#EXTINF:-1,BANDAMAX Opción 3
-http://200.35.176.154:8000/play/a051/index.m3u8
-#EXTINF:-1,BITME
-https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
-#EXTINF:-1,BOB ESPONJA
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1,CANAL 14
-https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
-#EXTINF:-1,CANAL 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
-#EXTINF:-1,CANA 27 EZPERANZA
-http://200.35.176.154:8000/play/a061/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://200.35.176.154:8000/play/a01u/index.m3u8
-#EXTINF:-1,Canal 13-GUA
-http://200.35.176.154:8000/play/a01t/index.m3u8
-#EXTINF:-1,CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1,Canal 3 - GUA
-http://200.35.176.154:8000/play/a02u/index.m3u8
-#EXTINF:-1,Canal 4 - ESA
-http://200.35.176.154:8000/play/a02n/index.m3u8
-#EXTINF:-1,CANAL 5
-http://200.35.176.154:8000/play/a056/index.m3u8
-#EXTINF:-1,CANAL 5 MEXICO
-http://200.35.176.154:8000/play/a067/index.m3u8
-#EXTINF:-1,Canal 7 - GUA
-http://200.35.176.154:8000/play/a02t/index.m3u8
-#EXTINF:-1,Canal Antigua - GUA
-http://200.35.176.154:8000/play/a02r/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
-http://200.35.176.154:8000/play/a02s/index.m3u8
-#EXTINF:-1,CANAL CAPITAL
-http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1,CANAL CATOLICO HUEHUE
-http://200.35.176.154:8000/play/a04f/index.m3u8
-#EXTINF:-1,CANAL CONGRESO
-http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://200.35.176.154:8000/play/a03j/index.m3u8
-#EXTINF:-1,CANAL INSTITUCIONAL
-http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
-#EXTINF:-1,CANAL PENIEL CAMOJA
-http://200.35.176.154:8000/play/a04a/index.m3u8
-#EXTINF:-1,CANAL UNO
-http://138.121.15.230:9002/CANAL-UNO/index.m3u8
-#EXTINF:-1,CANAL UNO Opción 2
-http://177.234.249.135:8888/CANAL_UNO/index.m3u8
-#EXTINF:-1,CANELA TV
-https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb553d167c6c64879ad43e65d3ef42a5da242ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27757c69e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da4b202488b2f5be79056ce864fedd2d408cd5ed475a51d8093f1ddd20d8bd3c762b451b0305f0b7b25c8867cc19c07fbb0f96d3098036e2c5a51e0a690fd163f870a1558a0ad86eb3ca940838872d9307ab852c91dd469dc3bff51a5b214cbc7d8d34f554bc0ae394f06fa8fcae9ff3b27cf0591c3b9870c16f3e3074757db64ce232821e28ca17b8ad6199a8936968b790f31d6904682c7dee98ab3825a8c24b8a49ef96d182009660b852fcaf00bf208ff29e599495136254dab9b6ad09fc95b420625e4ae7f8e6a71d3da9b93e00c2ec464175f9a0bb332066dc231607dab39efc04906e4271a950a2eef5727857de9aa2087c3b187281aefa9ad2dfb6af9bc09d7c90ea8633b4c03b4f75e3b2f2e78c3dc986c5a08abba7740ab9b152438ae91e0fbd85a3b084b6f386ea5c397bd1f13a2537038ce41326834311a9316df6ade7a356888088db2de7c4784086101f3ae2c1d6a6382c7a2224a96e94da16691b3959ceea83811de00291614a3858c57bd145e77691db000704caea497088dffacb2c1d33797ce2ec2900365dcea1de04f4b04531a12f0d420c902db3357cabac759dee68e130aa839bb081391efff65ecf4bb602e658d8758036e9bdf268a266397579c1c81dc74d7a746463208001992c004a41f8ed694917fc16cb5195737aa59ab8cefb6e16354cc985e7c665a02592c0436642790eef8484c3be0b52ce31dc1ee56a24d1d731c4fcc8d0d5bc9b9224fd2653030ebf08bb8accc0202c321a1269e2e50f017282ae68369bfd0fca3b4d7210472acdcc17bb2af8c8edbc58a772e790b1eaf810e0539885cbfe66ecca41e6ee09a84e3ce1cfe58eb36a98ba521e228daa5990aa995ddb3bb401e505e58ebd2b59d30deaf0151b46bd12e7c4dcd6a852585236fda29dc16bc6b80f388e2f6054380e76411/151/1280x720_3849560/index.m3u8
-#EXTINF:-1,CARACOL
-http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1,CARACOL Opción 2
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-#EXTINF:-1,CARACOL HD
-http://200.35.176.154:8000/play/a063/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://200.35.176.154:8000/play/a00z/index.m3u8
 #EXTINF:-1,Cartoonito
-http://200.35.176.154:8000/play/a011/index.m3u8
-#EXTINF:-1,CINE LATINO
-http://45.162.193.35/CINELATINO_HD/index.m3u8
-#EXTINF:-1,Cine Latino Opción 2
-http://200.35.176.154:8000/play/a043/index.m3u8
-#EXTINF:-1,CINE SONY
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Cartoonito&key=srregio.net
+
+#EXTINF:-1,Cartoon Network
+https://srregio.online/10326/redirect.php?canal=Cartoon%20Network&key=srregio.net
+
+#EXTINF:-1,Cinecanal
+https://srregio.online/10326/redirect.php?canal=Cinecanal&key=srregio.net
+
+#EXTINF:-1,Cine Latino
+https://srregio.online/10326/redirect.php?canal=Cine%20Latino&key=srregio.net
+
+#EXTINF:-1,Cinemax
+https://srregio.online/10326/redirect.php?canal=Cinemax&key=srregio.net
+
 #EXTINF:-1,CINE TERROR
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1,CINECANAL
-http://138.121.15.230:9002/CINECANAL/index.m3u8
-#EXTINF:-1,CINECANAL Opción 2
-http://45.162.193.35/CINECANAL/index.m3u8
-#EXTINF:-1,CineCanal Opción 3
-http://200.35.176.154:8000/play/a046/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://181.78.8.199:8000/play/a094/index.m3u8
-#EXTINF:-1,CINECANAL HD Opción 2
-http://200.35.176.154:8000/play/a03h/index.m3u8
-#EXTINF:-1,CINEMAX
-http://45.134.141.161:2200/ARG/Cinemax_HD/index.m3u8
-#EXTINF:-1,CineMax Opción 2
-http://200.35.176.154:8000/play/a044/index.m3u8
-#EXTINF:-1,CITY TV
-http://138.121.15.230:9002/CITY-TV/index.m3u8
+https://srregio.online/10326/redirect.php?canal=CINE%20TERROR&key=srregio.net
+
 #EXTINF:-1,Claro Cinema
-http://200.35.176.154:8000/play/a03d/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Claro%20Cinema&key=srregio.net
+
 #EXTINF:-1,Claro Musica
-http://200.35.176.154:8000/play/a02g/index.m3u8
-#EXTINF:-1,Claro Sports 2 HD
-http://200.35.176.154:8000/play/a00i/index.m3u8
-#EXTINF:-1,CNN
-http://181.78.8.199:8000/play/a0dt/index.m3u8
-#EXTINF:-1,CNNE
-http://200.35.176.154:8000/play/a01j/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Claro%20Musica&key=srregio.net
+
+#EXTINF:-1,CLARO SPORTS
+https://srregio.online/10326/redirect.php?canal=CLARO%20SPORTS&key=srregio.net
+
+#EXTINF:-1,Claro Sports 2
+https://srregio.online/10326/redirect.php?canal=Claro%20Sports%202&key=srregio.net
+
 #EXTINF:-1,COMEDY CENTRAL
-http://181.119.93.83:8000/play/a1di/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://181.78.8.199:8000/play/a07i/index.m3u8
+https://srregio.online/10326/redirect.php?canal=COMEDY%20CENTRAL&key=srregio.net
+
 #EXTINF:-1,DE PELICULA
-http://138.121.15.230:9002/DEPELICULA/index.m3u8
-#EXTINF:-1,DE PELICULA Opción 2
-http://181.119.66.28:8081/DE-PELICULA/index.m3u8
-#EXTINF:-1,DE PELICULA Opción 3
-http://181.78.8.199:8000/play/a0au/index.m3u8
-#EXTINF:-1,DE PELICULA Opción 4
-http://200.35.176.154:8000/play/a004/index.m3u8
-#EXTINF:-1,DESCONOCIDO
-http://38.49.128.38:8000/play/a08w/index.m3u8
+https://srregio.online/10326/redirect.php?canal=DE%20PELICULA&key=srregio.net
+
 #EXTINF:-1,DHE
-http://200.35.176.154:8000/play/a00f/index.m3u8
-#EXTINF:-1,DHE HD
-http://181.78.8.199:8000/play/a086/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://181.78.8.199:8000/play/a0c4/index.m3u8
-#EXTINF:-1,Discovery Channel Opción 2
-http://200.35.176.154:8000/play/a036/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://181.78.8.199:8000/play/a09a/index.m3u8
+https://srregio.online/10326/redirect.php?canal=DHE&key=srregio.net
+
+#EXTINF:-1,DISCOVERY
+https://srregio.online/10326/redirect.php?canal=DISCOVERY&key=srregio.net
+
+#EXTINF:-1,Discovery Channel
+https://srregio.online/10326/redirect.php?canal=Discovery%20Channel&key=srregio.net
+
+#EXTINF:-1,Discovery en Español
+https://srregio.online/10326/redirect.php?canal=Discovery%20en%20Espa%C3%B1ol&key=srregio.net
+
+#EXTINF:-1,Discovery en Español E
+https://srregio.online/10326/redirect.php?canal=Discovery%20en%20Espa%C3%B1ol%20E&key=srregio.net
+
+#EXTINF:-1,Discovery Familia HQ
+https://srregio.online/10326/redirect.php?canal=Discovery%20Familia%20HQ&key=srregio.net
+
 #EXTINF:-1,Discovery Home & Health
-http://200.35.176.154:8000/play/a03u/index.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://181.78.8.199:8000/play/a0c5/index.m3u8
-#EXTINF:-1,Discovery ID HD
-http://200.35.176.154:8000/play/a0rx/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://181.78.8.199:8000/play/a070/index.m3u8
-#EXTINF:-1,Discovery Kids Opción 2
-http://200.35.176.154:8000/play/a03p/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Discovery%20Home%20%26%20Health&key=srregio.net
+
+#EXTINF:-1,Discovery ID
+https://srregio.online/10326/redirect.php?canal=Discovery%20ID&key=srregio.net
+
+#EXTINF:-1,Discovery Kids
+https://srregio.online/10326/redirect.php?canal=Discovery%20Kids&key=srregio.net
+
+#EXTINF:-1,DISCOVERY KIDS MX
+https://srregio.online/10326/redirect.php?canal=DISCOVERY%20KIDS%20MX&key=srregio.net
+
+#EXTINF:-1,Discovery Theater
+https://srregio.online/10326/redirect.php?canal=Discovery%20Theater&key=srregio.net
+
 #EXTINF:-1,Discovery Turbo
-http://200.35.176.154:8000/play/a03t/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://200.35.176.154:8000/play/a0ru/index.m3u8
-#EXTINF:-1,Disney
-http://200.35.176.154:8000/play/a03r/index.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-#EXTINF:-1,Disney JR
-http://200.35.176.154:8000/play/a012/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://181.78.8.199:8000/play/a0g8/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Discovery%20Turbo&key=srregio.net
+
+#EXTINF:-1,Discovery World
+https://srregio.online/10326/redirect.php?canal=Discovery%20World&key=srregio.net
+
+#EXTINF:-1,Disney Channel
+https://srregio.online/10326/redirect.php?canal=Disney%20Channel&key=srregio.net
+
+#EXTINF:-1,Disney Junior
+https://srregio.online/10326/redirect.php?canal=Disney%20Junior&key=srregio.net
+
+#EXTINF:-1,Disney XD
+https://srregio.online/10326/redirect.php?canal=Disney%20XD&key=srregio.net
+
+#EXTINF:-1,Distrito Comedia
+https://srregio.online/10326/redirect.php?canal=Distrito%20Comedia&key=srregio.net
+
+#EXTINF:-1,DragonBall 24/7
+https://srregio.online/10326/redirect.php?canal=DragonBall%2024%2F7&key=srregio.net
+
 #EXTINF:-1,DREAMWORKS
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1,E!
-http://200.35.176.154:8000/play/a033/index.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://200.35.176.154:8000/play/a0qu/index.m3u8
+https://srregio.online/10326/redirect.php?canal=DREAMWORKS&key=srregio.net
+
+#EXTINF:-1,E! Entertairment
+https://srregio.online/10326/redirect.php?canal=E%21%20Entertairment&key=srregio.net
+
 #EXTINF:-1,EL CHAVO
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://srregio.online/10326/redirect.php?canal=EL%20CHAVO&key=srregio.net
+
 #EXTINF:-1,El Gourmet
-http://200.35.176.154:8000/play/a02a/index.m3u8
-#EXTINF:-1,ENERGEEK
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1,ENERGEEK FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1,ENERGEEK RADIO
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1,ERTUGRUL DE CANELA
-https://amg00658-amg00658c122-canelatv-worldwide-11628.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channelf-canelatvworldwide/cb553d167c6c64879ad43e65d3ef42a5da242ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27757c69e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da4b202488b2f5be79056cb871fbc868659cd5ed475a51d8093f1ddd20d8bd7c56ab451e3610a0b7229cad32a979b07cfb0f068298c4e2a531051eaa6e195245585464d59f4fe85ab73a57da4eb2c82125fd166b16ea661c73cf07ecd8e4aa5bbb2dc477e35a5ca5c7426a7e0d2ee915736ae3c8ec884dc636ca6e5007755cc52cd30274af497a93aa59958fcd5278cb01b5b528495439e9eb1dbecb1c01c987d988aa0c16b110362535ad610a1c83c8979842ef89b4b230f173bc7f040d7b9c94c39744e85992ca57974b7ce878fe01b28f5700953fe61da425f06a6576872f15f9af05d3cd35660ed3c3bfa67219952f9ca489fc5f5c45c50dfbdcb4feb1d8bdf68fcd758c507595a0da3e22d2d26261c80dc986c5a08abba7740ab9b152438ae91e0fbd85a3b084b6f386ea5c397bd1f13a2537038ce41326834311a9316df6ade7a356888088db2de7c4784086101f3ae2c1d6a6382c7a2224a96e94da16691b3959ceea83811de00291614a3858c57bd145e77691db000704caea497088dffacb2c1d33797ce2ec2900365dcea1de04f4b04531a12f0d420c902db3357cabac759dee68e130aa839bb081391efff65ecf4bb602e658d8758036e9bdf268a266397579c1c81dc74d7a746463208001992c004a41f8ed694917fc16cb5195737aa59ab8cefb6e16354cc985e7c665a02592c0436642790eef8484c3be0b52ce31dc1ee56a24d1d731c4fcc8d0d5bc9b9224fd2653030ebf08bb8accc0202c321a1269e2e50f017282ae68369bfd0fca3b4d7210472acdcc17bb2af8c8edbc58a772e790b1eaf810e0539885cbfe66ecca41e6ee09a84e3ce1cfe58eb36a98ba521e228daa5990aa995ddb3bb401e505e58ebd2b59d30deaf0151b46bd12f744c7ceb2f6bb24ebcccfc7a6c807ab57d1fea855cb6206aa8/94/1280x720_3849560/index.m3u8
+https://srregio.online/10326/redirect.php?canal=El%20Gourmet&key=srregio.net
+
+#EXTINF:-1,ent Channel
+https://srregio.online/10326/redirect.php?canal=ent%20Channel&key=srregio.net
+
+#EXTINF:-1,ent Family
+https://srregio.online/10326/redirect.php?canal=ent%20Family&key=srregio.net
+
 #EXTINF:-1,ESPN
-http://200.35.176.154:8000/play/a03a/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESPN&key=srregio.net
+
+#EXTINF:-1,ESPN + IHD MX
+https://srregio.online/10326/redirect.php?canal=ESPN%20%2B%20IHD%20MX&key=srregio.net
+
 #EXTINF:-1,ESPN 1
-http://181.78.8.199:8000/play/a0b1/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESPN%201&key=srregio.net
+
 #EXTINF:-1,ESPN 2
-http://181.78.8.199:8000/play/a0b2/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://200.35.176.154:8000/play/a053/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESPN%202&key=srregio.net
+
+#EXTINF:-1,ESPN 2 EN HD E
+https://srregio.online/10326/redirect.php?canal=ESPN%202%20EN%20HD%20E&key=srregio.net
+
 #EXTINF:-1,ESPN 3
-http://181.78.8.199:8000/play/a0b3/index.m3u8
-#EXTINF:-1,ESPN 3 Opción 2
-http://200.35.176.154:8000/play/a02d/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://200.35.176.154:8000/play/a054/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESPN%203&key=srregio.net
+
 #EXTINF:-1,ESPN 4
-http://200.35.176.154:8000/play/a057/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESPN%204&key=srregio.net
+
 #EXTINF:-1,ESPN 5
-http://200.35.176.154:8000/play/a058/index.m3u8
-#EXTINF:-1,ESPN 6 HD
-http://200.35.176.154:8000/play/a055/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESPN%205&key=srregio.net
+
+#EXTINF:-1,ESPN 6
+https://srregio.online/10326/redirect.php?canal=ESPN%206&key=srregio.net
+
+#EXTINF:-1,ESPN CO
+https://srregio.online/10326/redirect.php?canal=ESPN%20CO&key=srregio.net
+
+#EXTINF:-1,ESPN EN HD E
+https://srregio.online/10326/redirect.php?canal=ESPN%20EN%20HD%20E&key=srregio.net
+
+#EXTINF:-1,ESPNews HD E
+https://srregio.online/10326/redirect.php?canal=ESPNews%20HD%20E&key=srregio.net
+
+#EXTINF:-1,ESPN U HD E
+https://srregio.online/10326/redirect.php?canal=ESPN%20U%20HD%20E&key=srregio.net
+
 #EXTINF:-1,ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,EWTN
-http://177.234.249.135:8888/EWTN/index.m3u8
-#EXTINF:-1,EWTN Opción 2
-http://200.35.176.154:8000/play/a01n/index.m3u8
-#EXTINF:-1,Exa TV
-http://200.35.176.154:8000/play/a03c/index.m3u8
-#EXTINF:-1,FORO TV
-https://channel02-onlymex.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1,FORO TV Opción 2
-https://channel02-onlymex.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1,FOX MUNDIAL SAL
-http://200.35.176.154:8000/play/a066/index.m3u8
-#EXTINF:-1,FOX NEWS
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+https://srregio.online/10326/redirect.php?canal=ESTRELLA%20TV&key=srregio.net
+
+#EXTINF:-1,FOXDEPORTES
+https://srregio.online/10326/redirect.php?canal=FOXDEPORTES&key=srregio.net
+
 #EXTINF:-1,FOX SPORTS 1
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1,FRANCE 24
-https://s5.mexside.net:1936/france24/france24/playlist.m3u8
-#EXTINF:-1,FREEFORM
-http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+https://srregio.online/10326/redirect.php?canal=FOX%20SPORTS%201&key=srregio.net
+
+#EXTINF:-1,Fox Sports 2
+https://srregio.online/10326/redirect.php?canal=Fox%20Sports%202&key=srregio.net
+
+#EXTINF:-1,Fox Sports 3
+https://srregio.online/10326/redirect.php?canal=Fox%20Sports%203&key=srregio.net
+
 #EXTINF:-1,FX
-http://138.121.15.230:9002/FX/index.m3u8
-#EXTINF:-1,FX Opción 2
-http://45.162.193.35/FX/index.m3u8
-#EXTINF:-1,FX Opción 3
-http://200.35.176.154:8000/play/a026/index.m3u8
-#EXTINF:-1,FX HD
-http://200.35.176.154:8000/play/a0qz/index.m3u8
+https://srregio.online/10326/redirect.php?canal=FX&key=srregio.net
+
 #EXTINF:-1,GOLDE EDGE
-http://200.35.176.154:8000/play/a001/index.m3u8
+https://srregio.online/10326/redirect.php?canal=GOLDE%20EDGE&key=srregio.net
+
 #EXTINF:-1,Golden
-http://200.35.176.154:8000/play/a02j/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Golden&key=srregio.net
+
 #EXTINF:-1,GOLDEN EDGE
-http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+https://srregio.online/10326/redirect.php?canal=GOLDEN%20EDGE&key=srregio.net
+
 #EXTINF:-1,GOLDEN PLUS
-http://177.234.249.135:8888/GoldenPlus/index.m3u8
-#EXTINF:-1,GOLDEN PLUS Opción 2
-http://200.39.57.254:8008/play/a0eg/index.m3u8
-#EXTINF:-1,Guatevision - GUA
-http://200.35.176.154:8000/play/a00t/index.m3u8
-#EXTINF:-1,H2
-http://200.35.176.154:8000/play/a029/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://200.35.176.154:8000/play/a00o/index.m3u8
-#EXTINF:-1,HBO HD
-http://200.35.176.154:8000/play/a00l/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://200.35.176.154:8000/play/a00n/index.m3u8
+https://srregio.online/10326/redirect.php?canal=GOLDEN%20PLUS&key=srregio.net
+
+#EXTINF:-1,HBO
+https://srregio.online/10326/redirect.php?canal=HBO&key=srregio.net
+
+#EXTINF:-1,HBO 2
+https://srregio.online/10326/redirect.php?canal=HBO%202&key=srregio.net
+
+#EXTINF:-1,HBO EXTREME
+https://srregio.online/10326/redirect.php?canal=HBO%20EXTREME&key=srregio.net
+
+#EXTINF:-1,HBO Family
+https://srregio.online/10326/redirect.php?canal=HBO%20Family&key=srregio.net
+
+#EXTINF:-1,HBO Plus
+https://srregio.online/10326/redirect.php?canal=HBO%20Plus&key=srregio.net
+
+#EXTINF:-1,HBO PLUS C
+https://srregio.online/10326/redirect.php?canal=HBO%20PLUS%20C&key=srregio.net
+
+#EXTINF:-1,HBO SIGNATURE
+https://srregio.online/10326/redirect.php?canal=HBO%20SIGNATURE&key=srregio.net
+
 #EXTINF:-1,HBO XTREME
-http://200.35.176.154:8000/play/a00p/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://200.35.176.154:8000/play/a00m/index.m3u8
-#EXTINF:-1,HIPODROMO DE LAS AMERICAS
-http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
-#EXTINF:-1,HISTORY 2
-http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1,HISTORY 2 Opción 2
-http://181.78.8.199:8000/play/a0cq/index.m3u8
-#EXTINF:-1,HISTORY 2 Opción 3
-http://181.78.8.199:8000/play/a0ag/index.m3u8
-#EXTINF:-1,History Channel
-http://200.35.176.154:8000/play/a038/index.m3u8
-#EXTINF:-1,HISTORY HD
-http://181.119.66.28:8081/History-HD/index.m3u8
-#EXTINF:-1,History HD Opción 2
-http://200.35.176.154:8000/play/a01o/index.m3u8
-#EXTINF:-1,HOLA! TV HD
-http://200.35.176.154:8000/play/a0rc/index.m3u8
-#EXTINF:-1,Home & Health HD
-http://200.35.176.154:8000/play/a0rb/index.m3u8
-#EXTINF:-1,HTV
-http://200.35.176.154:8000/play/a02i/index.m3u8
-#EXTINF:-1,IMAGEN TV
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1,KANAL D DRAMA HD
-http://181.78.8.199:8000/play/a083/index.m3u8
-#EXTINF:-1,La voz de Maria
-http://200.35.176.154:8000/play/a03w/index.m3u8
-#EXTINF:-1,LAS ESTRELLAS
-http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8
-#EXTINF:-1,LAS ESTRELLAS Opción 2
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,LIFETIME
-http://138.121.15.230:9002/LIFETIME/index.m3u8
-#EXTINF:-1,LIFETIME Opción 2
-http://181.78.8.199:8000/play/a0ai/index.m3u8
+https://srregio.online/10326/redirect.php?canal=HBO%20XTREME&key=srregio.net
+
+#EXTINF:-1,History
+https://srregio.online/10326/redirect.php?canal=History&key=srregio.net
+
+#EXTINF:-1,History 2
+https://srregio.online/10326/redirect.php?canal=History%202&key=srregio.net
+
+#EXTINF:-1,History en Español
+https://srregio.online/10326/redirect.php?canal=History%20en%20Espa%C3%B1ol&key=srregio.net
+
+#EXTINF:-1,Hola TV
+https://srregio.online/10326/redirect.php?canal=Hola%20TV&key=srregio.net
+
+#EXTINF:-1,Home & Health
+https://srregio.online/10326/redirect.php?canal=Home%20%26%20Health&key=srregio.net
+
+#EXTINF:-1,HomeandHealth
+https://srregio.online/10326/redirect.php?canal=HomeandHealth&key=srregio.net
+
+#EXTINF:-1,Imagen TV
+https://srregio.online/10326/redirect.php?canal=Imagen%20TV&key=srregio.net
+
+#EXTINF:-1,IMAGEN TV IHD
+https://srregio.online/10326/redirect.php?canal=IMAGEN%20TV%20IHD&key=srregio.net
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+https://srregio.online/10326/redirect.php?canal=INVESTIGATION%20DISCOVERY&key=srregio.net
+
+#EXTINF:-1,Las Estrellas MX
+https://srregio.online/10326/redirect.php?canal=Las%20Estrellas%20MX&key=srregio.net
+
+#EXTINF:-1,Lifetime
+https://srregio.online/10326/redirect.php?canal=Lifetime&key=srregio.net
+
 #EXTINF:-1,LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
+https://srregio.online/10326/redirect.php?canal=LOCOMOTION&key=srregio.net
+
 #EXTINF:-1,MTV
-http://38.19.41.46:8081/MTV/index.m3u8
-#EXTINF:-1,MTV Opción 2
-http://181.78.8.199:8000/play/a0ad/index.m3u8
+https://srregio.online/10326/redirect.php?canal=MTV&key=srregio.net
+
+#EXTINF:-1,Multimedio Laguna
+https://srregio.online/10326/redirect.php?canal=Multimedio%20Laguna&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS BAJIO
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20BAJIO&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS CD JUAREZ
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20CD%20JUAREZ&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20CDMX&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS GUADALAJARA
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20GUADALAJARA&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS LAGUNA
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20LAGUNA&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS MONTERREY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20MONTERREY&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS PUEBLA
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20PUEBLA&key=srregio.net
+
 #EXTINF:-1,MULTIMEDIOS SALTILLO
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20SALTILLO&key=srregio.net
+
 #EXTINF:-1,Multipremier
-http://200.35.176.154:8000/play/a042/index.m3u8
-#EXTINF:-1,MVM NOTICIAS
-http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+https://srregio.online/10326/redirect.php?canal=Multipremier&key=srregio.net
+
+#EXTINF:-1,MULTIPREMIER MP
+https://srregio.online/10326/redirect.php?canal=MULTIPREMIER%20MP&key=srregio.net
+
 #EXTINF:-1,N+
-https://channel04-onlymex.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+https://srregio.online/10326/redirect.php?canal=N%2B&key=srregio.net
+
 #EXTINF:-1,N+ GDL
-https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
+https://srregio.online/10326/redirect.php?canal=N%2B%20GDL&key=srregio.net
+
 #EXTINF:-1,N+ MEDIA
-https://channel07-onlymex.akamaized.net/hls/live/2036971/event01/index.m3u8
+https://srregio.online/10326/redirect.php?canal=N%2B%20MEDIA&key=srregio.net
+
 #EXTINF:-1,N+ MTY
-https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
-#EXTINF:-1,NAT GEO
-http://181.78.8.199:8000/play/a0c7/index.m3u8
-#EXTINF:-1,NAT GEO HD
-http://181.78.8.199:8000/play/a093/index.m3u8
-#EXTINF:-1,Nat Geo HD Opción 2
-http://200.35.176.154:8000/play/a0rq/index.m3u8
-#EXTINF:-1,NATGEO
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
-#EXTINF:-1,NATGEO Opción 2
-http://45.162.193.35/NATGEO/index.m3u8
-#EXTINF:-1,National Geographic
-http://200.35.176.154:8000/play/a01b/index.m3u8
-#EXTINF:-1,NBC
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-#EXTINF:-1,NBC UNIVERSO
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1,NET TV
-http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
-#EXTINF:-1,NICK HD
-http://181.78.8.199:8000/play/a0hs/index.m3u8
-#EXTINF:-1,NICK JR
-http://181.78.8.199:8000/play/a0a0/index.m3u8
-#EXTINF:-1,NICK JR Opción 2
-http://200.35.176.154:8000/play/a065/index.m3u8
-#EXTINF:-1,NRT 4 MONCLOVA
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-#EXTINF:-1,NTN24
-http://181.78.8.199:8000/play/a0a6/index.m3u8
+https://srregio.online/10326/redirect.php?canal=N%2B%20MTY&key=srregio.net
+
+#EXTINF:-1,Nat Geo
+https://srregio.online/10326/redirect.php?canal=Nat%20Geo&key=srregio.net
+
+#EXTINF:-1,NICK
+https://srregio.online/10326/redirect.php?canal=NICK&key=srregio.net
+
+#EXTINF:-1,Nick Jr
+https://srregio.online/10326/redirect.php?canal=Nick%20Jr&key=srregio.net
+
+#EXTINF:-1,NickToons
+https://srregio.online/10326/redirect.php?canal=NickToons&key=srregio.net
+
 #EXTINF:-1,NU9VE
-https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1,NUESTRA TELE INTERNACIONAL
-http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1,ONCE
-https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
-#EXTINF:-1,ONCE NIÑAS Y NIÑOS SD
-http://38.49.128.38:8000/play/a0nr/index.m3u8
-#EXTINF:-1,PANICO
-http://181.78.8.199:8000/play/a0bt/index.m3u8
-#EXTINF:-1,PARAMOUNT HD
-http://181.78.8.199:8000/play/a06u/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://200.35.176.154:8000/play/a0rv/index.m3u8
-#EXTINF:-1,PREUBA  FOX SPORT 2
-http://200.35.176.154:8000/play/a05x/index.m3u8
-#EXTINF:-1,PUNTO 2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1,PXTV
-http://200.35.176.154:8000/play/a04l/index.m3u8
-#EXTINF:-1,radio ranchera
-http://200.35.176.154:8000/play/a05c/index.m3u8
-#EXTINF:-1,radio sonora
-http://200.35.176.154:8000/play/a002/index.m3u8
-#EXTINF:-1,RCG 3 SALTILLO
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1,RCN
-http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1,RCN Opción 2
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1,RCN - GUA
-http://200.35.176.154:8000/play/a008/index.m3u8
-#EXTINF:-1,RCN NOVELAS
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1,RCN Novelas Opción 2
-http://200.35.176.154:8000/play/a027/index.m3u8
-#EXTINF:-1,RHEMA TV
-http://200.35.176.154:8000/play/a04e/index.m3u8
+https://srregio.online/10326/redirect.php?canal=NU9VE&key=srregio.net
+
+#EXTINF:-1,ONCE NIÑAS Y NIÑOS
+https://srregio.online/10326/redirect.php?canal=ONCE%20NI%C3%91AS%20Y%20NI%C3%91OS&key=srregio.net
+
+#EXTINF:-1,Paramount
+https://srregio.online/10326/redirect.php?canal=Paramount&key=srregio.net
+
+#EXTINF:-1,Pasiones
+https://srregio.online/10326/redirect.php?canal=Pasiones&key=srregio.net
+
+#EXTINF:-1,Pop Corn Central
+https://srregio.online/10326/redirect.php?canal=Pop%20Corn%20Central&key=srregio.net
+
+#EXTINF:-1,Pánico
+https://srregio.online/10326/redirect.php?canal=P%C3%A1nico&key=srregio.net
+
+#EXTINF:-1,RCN Novelas
+https://srregio.online/10326/redirect.php?canal=RCN%20Novelas&key=srregio.net
+
 #EXTINF:-1,RT EN ESPAÑOL
-http://177.234.249.135:8888/RT/index.m3u8
-#EXTINF:-1,RT EN ESPAÑOL OPCION 2
-https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1,RUMBA TV
-http://45.162.193.35/RUMBATV/index.m3u8
-#EXTINF:-1,Sembrador
-http://200.35.176.154:8000/play/a02o/index.m3u8
-#EXTINF:-1,SEMILLITAS
-http://200.35.176.154:8000/play/a014/index.m3u8
-#EXTINF:-1,SONY
-http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
-#EXTINF:-1,Sony Movies HD
-http://200.35.176.154:8000/play/a005/index.m3u8
-#EXTINF:-1,SPACE HD
-http://200.35.176.154:8000/play/a04h/index.m3u8
-#EXTINF:-1,SPIN5HD
-http://200.35.176.154:8000/play/a060/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://200.35.176.154:8000/play/a03s/index.m3u8
+https://srregio.online/10326/redirect.php?canal=RT%20EN%20ESPA%C3%91OL&key=srregio.net
+
+#EXTINF:-1,Sky Sports La Liga
+https://srregio.online/10326/redirect.php?canal=Sky%20Sports%20La%20Liga&key=srregio.net
+
+#EXTINF:-1,Sonic
+https://srregio.online/10326/redirect.php?canal=Sonic&key=srregio.net
+
+#EXTINF:-1,Sony
+https://srregio.online/10326/redirect.php?canal=Sony&key=srregio.net
+
+#EXTINF:-1,Space
+https://srregio.online/10326/redirect.php?canal=Space&key=srregio.net
+
+#EXTINF:-1,Star Channel
+https://srregio.online/10326/redirect.php?canal=Star%20Channel&key=srregio.net
+
 #EXTINF:-1,Studio Universal
-http://200.35.176.154:8000/play/a045/index.m3u8
-#EXTINF:-1,TBN Enlace
-http://200.35.176.154:8000/play/a01m/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Studio%20Universal&key=srregio.net
+
+#EXTINF:-1,STUDIO UNIVERSAL IHD
+https://srregio.online/10326/redirect.php?canal=STUDIO%20UNIVERSAL%20IHD&key=srregio.net
+
 #EXTINF:-1,TCM
-http://200.35.176.154:8000/play/a02k/index.m3u8
-#EXTINF:-1,Tele Antillas - RD
-http://200.35.176.154:8000/play/a00u/index.m3u8
-#EXTINF:-1,tele arte
-http://200.35.176.154:8000/play/a05d/index.m3u8
-#EXTINF:-1,TELE FLIX
-http://200.35.176.154:8000/play/a04r/index.m3u8
-#EXTINF:-1,TELEFE HD
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1,TELEFORMULA
-https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1,TELEMUNDO
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-#EXTINF:-1,TELEMUNDO Opción 2
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:-1,Telemundo HD
-http://200.35.176.154:8000/play/a0qy/index.m3u8
-#EXTINF:-1,TELEMUNDO MIAMI
-http://200.35.176.154:8000/play/a05y/index.m3u8
-#EXTINF:-1,Telemundo Miami Opción 2
-http://200.35.176.154:8000/play/a05v/index.m3u8
+https://srregio.online/10326/redirect.php?canal=TCM&key=srregio.net
+
+#EXTINF:-1,Teleformula
+https://srregio.online/10326/redirect.php?canal=Teleformula&key=srregio.net
+
+#EXTINF:-1,Telemundo
+https://srregio.online/10326/redirect.php?canal=Telemundo&key=srregio.net
+
+#EXTINF:-1,Telemundo 51
+https://srregio.online/10326/redirect.php?canal=Telemundo%2051&key=srregio.net
+
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+https://srregio.online/10326/redirect.php?canal=TELEMUNDO%20INTERNACIONAL&key=srregio.net
+
+#EXTINF:-1,Telemundo Miami
+https://srregio.online/10326/redirect.php?canal=Telemundo%20Miami&key=srregio.net
+
+#EXTINF:-1,Telemundo PR
+https://srregio.online/10326/redirect.php?canal=Telemundo%20PR&key=srregio.net
+
 #EXTINF:-1,TELEMUNDO PUERTO RICO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1,TELENOVELAS
-http://181.78.8.199:8000/play/a0ar/index.m3u8
+https://srregio.online/10326/redirect.php?canal=TELEMUNDO%20PUERTO%20RICO&key=srregio.net
+
+#EXTINF:-1,Telenovelas
+https://srregio.online/10326/redirect.php?canal=Telenovelas&key=srregio.net
+
 #EXTINF:-1,TELERITMO
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1,TELESUR
-http://181.78.8.199:8000/play/a0fm/index.m3u8
-#EXTINF:-1,TELEVEN
-http://181.78.8.199:8000/play/a09j/index.m3u8
+https://srregio.online/10326/redirect.php?canal=TELERITMO&key=srregio.net
+
 #EXTINF:-1,TLC
-http://181.78.8.199:8000/play/a0ch/index.m3u8
-#EXTINF:-1,TLC Opción 2
-http://200.35.176.154:8000/play/a039/index.m3u8
+https://srregio.online/10326/redirect.php?canal=TLC&key=srregio.net
+
+#EXTINF:-1,TLC HD Latino
+https://srregio.online/10326/redirect.php?canal=TLC%20HD%20Latino&key=srregio.net
+
 #EXTINF:-1,TLNOVELAS
-http://138.121.15.230:9002/TELENOVELAS/index.m3u8
-#EXTINF:-1,TN 23
-http://200.35.176.154:8000/play/a04z/index.m3u8
-#EXTINF:-1,TNT HD
-http://200.35.176.154:8000/play/a0r9/index.m3u8
-#EXTINF:-1,TNT NOVELAS
-http://181.78.8.199:8000/play/a0bq/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://200.35.176.154:8000/play/a0rs/index.m3u8
-#EXTINF:-1,TOONCAST
-http://181.78.8.199:8000/play/a09g/index.m3u8
-#EXTINF:-1,Tooncast Opción 2
-http://200.35.176.154:8000/play/a02z/index.m3u8
+https://srregio.online/10326/redirect.php?canal=TLNOVELAS&key=srregio.net
+
+#EXTINF:-1,TNT
+https://srregio.online/10326/redirect.php?canal=TNT&key=srregio.net
+
+#EXTINF:-1,TNT Latino HD c
+https://srregio.online/10326/redirect.php?canal=TNT%20Latino%20HD%20c&key=srregio.net
+
+#EXTINF:-1,Tooncast
+https://srregio.online/10326/redirect.php?canal=Tooncast&key=srregio.net
+
+#EXTINF:-1,Total Music
+https://srregio.online/10326/redirect.php?canal=Total%20Music&key=srregio.net
+
+#EXTINF:-1,Total Music 00s
+https://srregio.online/10326/redirect.php?canal=Total%20Music%2000s&key=srregio.net
+
+#EXTINF:-1,Total Music 80s
+https://srregio.online/10326/redirect.php?canal=Total%20Music%2080s&key=srregio.net
+
 #EXTINF:-1,TUDN MX
-http://srregio.net/dreiko.php?ch=tudnmx&key=srregio.net&f=.m3u8
-#EXTINF:-1,TURBO
-http://181.78.8.199:8000/play/a0ci/index.m3u8
-#EXTINF:-1,TV AGRO HD
-http://181.78.8.199:8000/play/a0fj/index.m3u8
-#EXTINF:-1,TVE INTERNACIONAL AMERICA
-http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-#EXTINF:-1,TY C SPORTS
-http://38.49.128.38:8000/play/a0kw/index.m3u8
-#EXTINF:-1,UCV TV
-http://45.162.193.35/UCVTV/index.m3u8
+https://srregio.online/10326/redirect.php?canal=TUDN%20MX&key=srregio.net
+
+#EXTINF:-1,TyC
+https://srregio.online/10326/redirect.php?canal=TyC&key=srregio.net
+
 #EXTINF:-1,Universal
-http://200.35.176.154:8000/play/a040/index.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://200.35.176.154:8000/play/a0rk/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://200.35.176.154:8000/play/a0rj/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://200.35.176.154:8000/play/a0rg/index.m3u8
-#EXTINF:-1,UNIVERSAL TV
-http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
-#EXTINF:-1,UNIVISION
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1,Univision HD
-http://200.35.176.154:8000/play/a0rw/index.m3u8
-#EXTINF:-1,USA NETWORK
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
-#EXTINF:-1,VAQUEROS HUEHUE
-http://200.35.176.154:8000/play/a062/index.m3u8
-#EXTINF:-1,VIAX
-http://45.162.193.35/VIAX/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Universal&key=srregio.net
+
+#EXTINF:-1,Univision
+https://srregio.online/10326/redirect.php?canal=Univision&key=srregio.net
+
 #EXTINF:-1,Warner
-http://200.35.176.154:8000/play/a032/index.m3u8
+https://srregio.online/10326/redirect.php?canal=Warner&key=srregio.net
+
+#EXTINF:-1,WIN +
+https://srregio.online/10326/redirect.php?canal=WIN%20%2B&key=srregio.net
+
 #EXTINF:-1,WIN SPORTS
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1,zoe
-http://200.35.176.154:8000/play/a03x/index.m3u8
-#EXTINF:-1,ZONA LATINA
-http://45.162.193.35/ZONALATINA/index.m3u8
+https://srregio.online/10326/redirect.php?canal=WIN%20SPORTS&key=srregio.net
+
